@@ -1,0 +1,25 @@
+node_modules/
+dist/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.venv/
+.conda-env/
+.env
+.DS_Store
+
+# TypeScript build output (the source files are .ts and .vue)
+frontend/src/**/*.js
+frontend/src/**/*.vue.d.ts
+frontend/vite.config.js
+frontend/vite.config.d.ts
+
+# Runtime data
+data/cooking.db
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.coverage

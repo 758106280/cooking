@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+show_channel_urls: true
+channel_priority: strict
+default_channels:
+  - https://mirrors.aliyun.com/anaconda/pkgs/main
+  - https://mirrors.aliyun.com/anaconda/pkgs/r
+  - https://mirrors.aliyun.com/anaconda/pkgs/msys2
+custom_channels:
+  conda-forge: https://mirrors.aliyun.com/anaconda/cloud

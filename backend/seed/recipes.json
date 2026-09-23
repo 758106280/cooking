@@ -1,0 +1,2570 @@
+[
+  {
+    "name": "糖醋鲤鱼",
+    "cuisine": "鲁菜",
+    "meal_type": "dinner",
+    "description": "鱼身外酥里嫩，糖醋汁酸甜开胃，适合家庭宴客。",
+    "difficulty": "medium",
+    "cooking_time": 40,
+    "servings": 2,
+    "tips": "鲤鱼打花刀时不要切断鱼骨，炸鱼前擦干表面水分，鱼皮更容易定型。",
+    "tags": ["鲁菜", "宴客菜", "下饭菜"],
+    "ingredients": [
+      {"name": "鲤鱼", "amount": 1, "unit": "条", "note": "约500克，去鳞去腮"},
+      {"name": "淀粉", "amount": 60, "unit": "克", "note": "用于挂糊"},
+      {"name": "番茄酱", "amount": 2, "unit": "勺", "note": null},
+      {"name": "白糖", "amount": 2, "unit": "勺", "note": null},
+      {"name": "米醋", "amount": 2, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鲤鱼洗净擦干，两面打斜刀，用盐和料酒腌制十分钟。", "duration_seconds": 600},
+      {"description": "鱼身均匀拍上淀粉，提起鱼尾用热油浇淋定型，再放入锅中炸至金黄酥脆。", "duration_seconds": 600},
+      {"description": "锅中留少许油，炒香番茄酱，加入白糖、米醋和少量清水煮开，淋在炸好的鱼上。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 560, "protein": 38, "carbs": 48, "fat": 22}
+  },
+  {
+    "name": "葱烧海参",
+    "cuisine": "鲁菜",
+    "meal_type": "dinner",
+    "description": "葱香浓郁、海参软糯的鲁菜经典，适合节日或正式晚餐。",
+    "difficulty": "medium",
+    "cooking_time": 35,
+    "servings": 2,
+    "tips": "泡发海参要彻底去除内脏并保持无油，烧制时用小火让海参充分入味。",
+    "tags": ["鲁菜", "海鲜", "宴客菜"],
+    "ingredients": [
+      {"name": "水发海参", "amount": 4, "unit": "只", "note": "纵向剖开"},
+      {"name": "大葱", "amount": 2, "unit": "根", "note": "切段"},
+      {"name": "生抽", "amount": 1, "unit": "勺", "note": null},
+      {"name": "蚝油", "amount": 1, "unit": "勺", "note": null},
+      {"name": "高汤", "amount": 200, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "海参焯水一分钟后捞出，大葱切段备用。", "duration_seconds": 60},
+      {"description": "锅中放油煎葱段，煎至两面金黄并有浓郁葱香后盛出。", "duration_seconds": 240},
+      {"description": "锅中加入高汤、生抽和蚝油，放入海参小火烧十分钟，最后放回葱段并收浓汤汁。", "duration_seconds": 600}
+    ],
+    "nutrition": {"calories": 310, "protein": 28, "carbs": 14, "fat": 15}
+  },
+  {
+    "name": "麻婆豆腐",
+    "cuisine": "川菜",
+    "meal_type": "lunch",
+    "description": "麻辣鲜香、豆腐嫩滑的川菜家常名菜，拌米饭尤其下饭。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "豆腐焯水可以去豆腥，出锅前分次勾芡并轻推锅身，豆腐不易碎。",
+    "tags": ["川菜", "家常菜", "下饭菜"],
+    "ingredients": [
+      {"name": "嫩豆腐", "amount": 400, "unit": "克", "note": "切2厘米方块"},
+      {"name": "牛肉末", "amount": 100, "unit": "克", "note": null},
+      {"name": "郫县豆瓣酱", "amount": 1, "unit": "勺", "note": "剁细"},
+      {"name": "花椒粉", "amount": 1, "unit": "茶匙", "note": null},
+      {"name": "蒜苗", "amount": 2, "unit": "根", "note": "切末"}
+    ],
+    "steps": [
+      {"description": "豆腐放入加盐的沸水中焯一分钟，捞出沥水。", "duration_seconds": 60},
+      {"description": "热锅炒香牛肉末，加入豆瓣酱和蒜末炒出红油，再加适量清水煮开。", "duration_seconds": 240},
+      {"description": "放入豆腐小火煮五分钟，分次淋入水淀粉收汁，撒花椒粉和蒜苗即可。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 390, "protein": 25, "carbs": 18, "fat": 24}
+  },
+  {
+    "name": "宫保鸡丁",
+    "cuisine": "川菜",
+    "meal_type": "lunch",
+    "description": "鸡丁嫩滑，花生酥脆，酸甜微辣的经典川味快手菜。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "鸡丁先腌后滑炒，宫保汁提前调好并快速翻炒，成菜口感更嫩。",
+    "tags": ["川菜", "快手菜", "下饭菜"],
+    "ingredients": [
+      {"name": "鸡腿肉", "amount": 300, "unit": "克", "note": "切丁"},
+      {"name": "熟花生米", "amount": 60, "unit": "克", "note": null},
+      {"name": "干辣椒", "amount": 8, "unit": "个", "note": "剪段"},
+      {"name": "黄瓜", "amount": 1, "unit": "根", "note": "切丁"},
+      {"name": "米醋", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡腿肉加入生抽、料酒和淀粉抓匀，腌制十分钟；用米醋、白糖、生抽和淀粉调成碗汁。", "duration_seconds": 600},
+      {"description": "热锅下油，炒香花椒和干辣椒，放入鸡丁大火滑炒至变色。", "duration_seconds": 180},
+      {"description": "加入黄瓜丁和碗汁快速翻炒，关火后拌入花生米。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 520, "protein": 38, "carbs": 26, "fat": 29}
+  },
+  {
+    "name": "白切鸡",
+    "cuisine": "粤菜",
+    "meal_type": "dinner",
+    "description": "鸡肉鲜嫩、原汁原味，搭配姜葱蘸料即可呈现粤菜风味。",
+    "difficulty": "medium",
+    "cooking_time": 50,
+    "servings": 4,
+    "tips": "鸡浸熟后立即放入冰水，鸡皮更爽脆；以最厚处无血水作为熟度判断。",
+    "tags": ["粤菜", "家常菜", "高蛋白"],
+    "ingredients": [
+      {"name": "三黄鸡", "amount": 1, "unit": "只", "note": "约1000克"},
+      {"name": "生姜", "amount": 30, "unit": "克", "note": "切片"},
+      {"name": "小葱", "amount": 4, "unit": "根", "note": "打结"},
+      {"name": "生抽", "amount": 3, "unit": "勺", "note": "用于蘸料"}
+    ],
+    "steps": [
+      {"description": "整鸡洗净，锅中加足量水、姜片和葱结烧至微沸。", "duration_seconds": 600},
+      {"description": "提着鸡头将鸡身在沸水中提放三次，再完全浸入锅中，小火浸煮约三十分钟。", "duration_seconds": 1800},
+      {"description": "关火焖十分钟，捞出放入冰水冷却，斩块后搭配姜葱油或生抽蘸料食用。", "duration_seconds": 600}
+    ],
+    "nutrition": {"calories": 460, "protein": 48, "carbs": 4, "fat": 28}
+  },
+  {
+    "name": "清蒸鲈鱼",
+    "cuisine": "粤菜",
+    "meal_type": "dinner",
+    "description": "突出鱼肉鲜味的广式家常菜，蒸制时间短，适合清淡晚餐。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "鱼身垫姜片并控制蒸制时间，出锅后倒掉盘中腥水再淋蒸鱼豉油。",
+    "tags": ["粤菜", "海鲜", "清淡"],
+    "ingredients": [
+      {"name": "鲈鱼", "amount": 1, "unit": "条", "note": "约500克"},
+      {"name": "生姜", "amount": 20, "unit": "克", "note": "切丝"},
+      {"name": "小葱", "amount": 3, "unit": "根", "note": "切丝"},
+      {"name": "蒸鱼豉油", "amount": 2, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鲈鱼处理干净，在鱼身两侧划几刀，放姜片和少许料酒腌五分钟。", "duration_seconds": 300},
+      {"description": "蒸锅水开后放鱼，大火蒸八至十分钟，关火焖两分钟。", "duration_seconds": 720},
+      {"description": "倒掉盘中汤汁，铺上葱姜丝，淋蒸鱼豉油并浇一勺热油。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 280, "protein": 39, "carbs": 5, "fat": 11}
+  },
+  {
+    "name": "扬州炒饭",
+    "cuisine": "苏菜",
+    "meal_type": "lunch",
+    "description": "米粒分明、配料丰富的淮扬经典炒饭，适合消耗隔夜米饭。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "使用冷藏米饭并提前打散，所有配料切成小粒，炒制时全程大火更香。",
+    "tags": ["苏菜", "快手菜", "一锅饭"],
+    "ingredients": [
+      {"name": "米饭", "amount": 400, "unit": "克", "note": "隔夜冷藏"},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": "打散"},
+      {"name": "虾仁", "amount": 100, "unit": "克", "note": "切小粒"},
+      {"name": "青豆", "amount": 50, "unit": "克", "note": null},
+      {"name": "火腿肠", "amount": 1, "unit": "根", "note": "切丁"}
+    ],
+    "steps": [
+      {"description": "虾仁用少许盐和料酒腌制，青豆焯水，米饭提前抓散。", "duration_seconds": 300},
+      {"description": "锅烧热后炒熟鸡蛋，加入虾仁、火腿丁和青豆翻炒。", "duration_seconds": 180},
+      {"description": "倒入米饭大火炒散，用盐和白胡椒调味，炒至米粒干爽即可。", "duration_seconds": 240}
+    ],
+    "nutrition": {"calories": 510, "protein": 23, "carbs": 76, "fat": 13}
+  },
+  {
+    "name": "狮子头",
+    "cuisine": "苏菜",
+    "meal_type": "dinner",
+    "description": "肉丸松软鲜嫩、汤汁清润的淮扬名菜，适合周末慢炖。",
+    "difficulty": "hard",
+    "cooking_time": 70,
+    "servings": 4,
+    "tips": "肉馅要顺一个方向搅打上劲，炖煮时保持汤面微沸，丸子不易散。",
+    "tags": ["苏菜", "宴客菜", "慢炖"],
+    "ingredients": [
+      {"name": "猪肉馅", "amount": 500, "unit": "克", "note": "肥瘦三七"},
+      {"name": "荸荠", "amount": 100, "unit": "克", "note": "切碎"},
+      {"name": "小白菜", "amount": 300, "unit": "克", "note": null},
+      {"name": "生姜", "amount": 15, "unit": "克", "note": "切末"},
+      {"name": "高汤", "amount": 800, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "肉馅加入荸荠、姜末、鸡蛋、料酒和生抽，顺一个方向搅拌至上劲。", "duration_seconds": 480},
+      {"description": "双手蘸水将肉馅团成大丸子，放入温油中定型，或直接放入砂锅。", "duration_seconds": 300},
+      {"description": "加入高汤和少许老抽，小火炖约五十分钟，最后放入焯好的小白菜。", "duration_seconds": 3000}
+    ],
+    "nutrition": {"calories": 590, "protein": 31, "carbs": 16, "fat": 42}
+  },
+  {
+    "name": "东坡肉",
+    "cuisine": "浙菜",
+    "meal_type": "dinner",
+    "description": "五花肉色泽红亮、入口软糯，甜咸适中的浙江传统名菜。",
+    "difficulty": "medium",
+    "cooking_time": 100,
+    "servings": 4,
+    "tips": "五花肉先焯水再煎皮，炖煮过程保持小火，最后收汁时避免大力翻动。",
+    "tags": ["浙菜", "宴客菜", "慢炖"],
+    "ingredients": [
+      {"name": "五花肉", "amount": 600, "unit": "克", "note": "切大方块"},
+      {"name": "黄酒", "amount": 300, "unit": "毫升", "note": null},
+      {"name": "生抽", "amount": 3, "unit": "勺", "note": null},
+      {"name": "冰糖", "amount": 40, "unit": "克", "note": null},
+      {"name": "小葱", "amount": 5, "unit": "根", "note": "铺底"}
+    ],
+    "steps": [
+      {"description": "五花肉冷水下锅焯水，洗净后擦干，在皮面扎孔。", "duration_seconds": 600},
+      {"description": "砂锅底部铺小葱和姜片，放入五花肉，加入黄酒、生抽和冰糖。", "duration_seconds": 180},
+      {"description": "加盖小火炖七十分钟，翻面后再炖十分钟，开盖收浓汤汁。", "duration_seconds": 4800}
+    ],
+    "nutrition": {"calories": 760, "protein": 25, "carbs": 28, "fat": 61}
+  },
+  {
+    "name": "龙井虾仁",
+    "cuisine": "浙菜",
+    "meal_type": "lunch",
+    "description": "虾仁洁白鲜嫩，带有淡淡茶香的清雅浙菜。",
+    "difficulty": "medium",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "龙井茶只需用温水泡开，炒虾仁时锅要热、动作要快，避免虾仁出水。",
+    "tags": ["浙菜", "海鲜", "清淡"],
+    "ingredients": [
+      {"name": "虾仁", "amount": 250, "unit": "克", "note": "去虾线"},
+      {"name": "龙井茶", "amount": 5, "unit": "克", "note": null},
+      {"name": "蛋清", "amount": 1, "unit": "个", "note": null},
+      {"name": "淀粉", "amount": 1, "unit": "茶匙", "note": null}
+    ],
+    "steps": [
+      {"description": "龙井茶用八十度左右热水泡开，滤出茶汤；虾仁用蛋清、盐和淀粉腌十分钟。", "duration_seconds": 600},
+      {"description": "热锅冷油滑炒虾仁，至颜色变白、八成熟时盛出。", "duration_seconds": 120},
+      {"description": "锅中留底油，倒入虾仁和适量茶汤快速翻炒，装盘后点缀茶叶。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 260, "protein": 39, "carbs": 8, "fat": 8}
+  },
+  {
+    "name": "荔枝肉",
+    "cuisine": "闽菜",
+    "meal_type": "lunch",
+    "description": "外酥里嫩、酸甜可口的福建传统菜，造型和口感都很讨喜。",
+    "difficulty": "medium",
+    "cooking_time": 35,
+    "servings": 3,
+    "tips": "猪肉切花刀后再切块，复炸一次更酥脆；糖醋汁要最后快速裹匀。",
+    "tags": ["闽菜", "下饭菜", "宴客菜"],
+    "ingredients": [
+      {"name": "猪里脊", "amount": 300, "unit": "克", "note": "切花刀块"},
+      {"name": "荸荠", "amount": 100, "unit": "克", "note": "切片"},
+      {"name": "番茄酱", "amount": 2, "unit": "勺", "note": null},
+      {"name": "白醋", "amount": 1, "unit": "勺", "note": null},
+      {"name": "淀粉", "amount": 60, "unit": "克", "note": "用于挂糊"}
+    ],
+    "steps": [
+      {"description": "猪里脊切花刀再切块，加入盐、料酒和淀粉抓匀；荸荠切片备用。", "duration_seconds": 600},
+      {"description": "油温六成热时下肉块炸至定型，升高油温复炸至金黄，捞出沥油。", "duration_seconds": 300},
+      {"description": "锅中炒香番茄酱，加入白醋、白糖和少量水，放入荸荠和肉块快速翻匀。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 510, "protein": 32, "carbs": 46, "fat": 22}
+  },
+  {
+    "name": "沙茶面",
+    "cuisine": "闽菜",
+    "meal_type": "lunch",
+    "description": "汤头浓郁、海鲜丰富的福建风味面食，适合一锅完成。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "沙茶酱先炒出香味再加汤，配料按熟成速度依次下锅，面条口感更好。",
+    "tags": ["闽菜", "快手菜", "一锅饭"],
+    "ingredients": [
+      {"name": "碱水面", "amount": 300, "unit": "克", "note": null},
+      {"name": "虾", "amount": 150, "unit": "克", "note": "去虾线"},
+      {"name": "鱼丸", "amount": 6, "unit": "个", "note": null},
+      {"name": "沙茶酱", "amount": 2, "unit": "勺", "note": null},
+      {"name": "青菜", "amount": 150, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "面条煮至八成熟后捞出过冷水，虾和青菜洗净。", "duration_seconds": 180},
+      {"description": "锅中少油炒香沙茶酱，加入高汤和鱼丸煮开。", "duration_seconds": 300},
+      {"description": "放入虾、面条和青菜煮熟，用盐和白胡椒调味后盛出。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 480, "protein": 28, "carbs": 65, "fat": 13}
+  },
+  {
+    "name": "剁椒鱼头",
+    "cuisine": "湘菜",
+    "meal_type": "dinner",
+    "description": "鲜辣开胃、鱼肉细嫩的湖南代表菜，适合搭配米饭或面条。",
+    "difficulty": "medium",
+    "cooking_time": 35,
+    "servings": 3,
+    "tips": "鱼头腌制后擦干，剁椒本身有咸味，调味时先尝再补盐。",
+    "tags": ["湘菜", "海鲜", "下饭菜"],
+    "ingredients": [
+      {"name": "胖头鱼鱼头", "amount": 1, "unit": "个", "note": "约800克"},
+      {"name": "剁椒", "amount": 150, "unit": "克", "note": null},
+      {"name": "生姜", "amount": 20, "unit": "克", "note": "切片"},
+      {"name": "小葱", "amount": 3, "unit": "根", "note": "切葱花"},
+      {"name": "蒸鱼豉油", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鱼头洗净从中间剖开，用料酒、姜片和少许盐腌制十分钟。", "duration_seconds": 600},
+      {"description": "盘底铺姜片，放上鱼头，均匀铺满剁椒，水开后大火蒸二十分钟。", "duration_seconds": 1200},
+      {"description": "倒掉多余汤汁，淋蒸鱼豉油和热油，撒葱花即可。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 410, "protein": 42, "carbs": 10, "fat": 22}
+  },
+  {
+    "name": "小炒黄牛肉",
+    "cuisine": "湘菜",
+    "meal_type": "lunch",
+    "description": "牛肉嫩滑、香辣爽口的湖南家常快炒菜。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "牛肉逆纹切薄片并提前腌制，锅要足够热，炒制时间越短越嫩。",
+    "tags": ["湘菜", "快手菜", "高蛋白"],
+    "ingredients": [
+      {"name": "牛里脊", "amount": 250, "unit": "克", "note": "逆纹切片"},
+      {"name": "小米椒", "amount": 6, "unit": "个", "note": "切圈"},
+      {"name": "芹菜", "amount": 100, "unit": "克", "note": "切段"},
+      {"name": "生抽", "amount": 1, "unit": "勺", "note": null},
+      {"name": "蒜", "amount": 3, "unit": "瓣", "note": "切片"}
+    ],
+    "steps": [
+      {"description": "牛肉加入生抽、料酒、淀粉和少许油抓匀，腌制十分钟。", "duration_seconds": 600},
+      {"description": "热锅热油快速滑炒牛肉至七成熟，立即盛出。", "duration_seconds": 90},
+      {"description": "炒香蒜片和小米椒，放入芹菜翻炒，倒回牛肉用蚝油调味后出锅。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 390, "protein": 42, "carbs": 12, "fat": 19}
+  },
+  {
+    "name": "臭鳜鱼",
+    "cuisine": "徽菜",
+    "meal_type": "dinner",
+    "description": "闻起来特别、吃起来鲜香的徽州传统菜，适合喜欢发酵风味的人。",
+    "difficulty": "hard",
+    "cooking_time": 45,
+    "servings": 2,
+    "tips": "购买正规腌制臭鳜鱼并充分加热；腌鱼咸味通常较重，后续少放盐。",
+    "tags": ["徽菜", "海鲜", "特色菜"],
+    "ingredients": [
+      {"name": "腌制臭鳜鱼", "amount": 1, "unit": "条", "note": "约500克"},
+      {"name": "豆腐", "amount": 200, "unit": "克", "note": "切块"},
+      {"name": "生姜", "amount": 15, "unit": "克", "note": "切丝"},
+      {"name": "青蒜", "amount": 3, "unit": "根", "note": "切段"},
+      {"name": "辣椒酱", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "腌制鱼用清水快速冲洗，擦干后在鱼身两面划刀；豆腐切块。", "duration_seconds": 300},
+      {"description": "锅中煎鱼至两面微黄，加入姜丝、辣椒酱和适量清水。", "duration_seconds": 300},
+      {"description": "放入豆腐，小火烧二十五分钟，最后加入青蒜段煮一分钟即可。", "duration_seconds": 1500}
+    ],
+    "nutrition": {"calories": 360, "protein": 43, "carbs": 12, "fat": 15}
+  },
+  {
+    "name": "黄山炖鸽",
+    "cuisine": "徽菜",
+    "meal_type": "dinner",
+    "description": "汤清味鲜、鸽肉细嫩的徽州滋补家常汤品。",
+    "difficulty": "medium",
+    "cooking_time": 80,
+    "servings": 2,
+    "tips": "鸽子先焯水去浮沫，炖煮时保持微沸，出锅前再加盐能保持汤味清甜。",
+    "tags": ["徽菜", "汤品", "慢炖"],
+    "ingredients": [
+      {"name": "乳鸽", "amount": 1, "unit": "只", "note": "约400克"},
+      {"name": "山药", "amount": 200, "unit": "克", "note": "切段"},
+      {"name": "枸杞", "amount": 10, "unit": "克", "note": null},
+      {"name": "生姜", "amount": 15, "unit": "克", "note": "切片"},
+      {"name": "红枣", "amount": 4, "unit": "颗", "note": "去核"}
+    ],
+    "steps": [
+      {"description": "乳鸽洗净后冷水下锅焯水，捞出冲洗浮沫。", "duration_seconds": 300},
+      {"description": "砂锅放入乳鸽、姜片、红枣和足量清水，大火煮开后转小火炖一小时。", "duration_seconds": 3600},
+      {"description": "加入山药继续炖十五分钟，放入枸杞和少量盐即可。", "duration_seconds": 900}
+    ],
+    "nutrition": {"calories": 390, "protein": 45, "carbs": 22, "fat": 13}
+  },
+  {
+    "name": "黑椒牛排",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "外层焦香、内部多汁的家用煎牛排，搭配蔬菜即可成餐。",
+    "difficulty": "medium",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "牛排煎前擦干并回温，煎好后静置五分钟，切开时肉汁不易流失。",
+    "tags": ["西餐", "高蛋白", "快手菜"],
+    "ingredients": [
+      {"name": "西冷牛排", "amount": 2, "unit": "块", "note": "每块约200克"},
+      {"name": "黑胡椒", "amount": 2, "unit": "克", "note": "现磨"},
+      {"name": "黄油", "amount": 20, "unit": "克", "note": null},
+      {"name": "西兰花", "amount": 200, "unit": "克", "note": null},
+      {"name": "大蒜", "amount": 2, "unit": "瓣", "note": "拍破"}
+    ],
+    "steps": [
+      {"description": "牛排提前回温，用厨房纸吸干水分，两面撒盐和黑胡椒。", "duration_seconds": 900},
+      {"description": "铸铁锅烧热，加少量油将牛排每面煎约两分钟，加入黄油和大蒜淋油增香。", "duration_seconds": 300},
+      {"description": "牛排出锅静置五分钟，西兰花焯熟后与牛排一起装盘。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 620, "protein": 52, "carbs": 12, "fat": 40}
+  },
+  {
+    "name": "奶油蘑菇意面",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "奶香顺滑、蘑菇鲜味浓郁的家常西餐，二十多分钟即可完成。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "意面煮到略带硬芯，保留少量煮面水用于乳化酱汁，成品更顺滑。",
+    "tags": ["西餐", "快手菜", "家常菜"],
+    "ingredients": [
+      {"name": "意大利面", "amount": 200, "unit": "克", "note": null},
+      {"name": "口蘑", "amount": 200, "unit": "克", "note": "切片"},
+      {"name": "淡奶油", "amount": 150, "unit": "毫升", "note": null},
+      {"name": "帕玛森芝士", "amount": 30, "unit": "克", "note": "擦碎"},
+      {"name": "大蒜", "amount": 2, "unit": "瓣", "note": "切末"}
+    ],
+    "steps": [
+      {"description": "意面按包装时间煮熟，留半碗煮面水备用。", "duration_seconds": 600},
+      {"description": "锅中放黄油炒香蒜末和蘑菇，至蘑菇出水并微微上色。", "duration_seconds": 300},
+      {"description": "加入淡奶油和煮面水，放入意面翻拌，关火后拌入芝士和黑胡椒。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 590, "protein": 20, "carbs": 74, "fat": 24}
+  },
+  {
+    "name": "番茄肉酱意面",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "酸甜番茄搭配牛肉肉酱，适合全家分享的经典意面。",
+    "difficulty": "easy",
+    "cooking_time": 40,
+    "servings": 3,
+    "tips": "肉末炒到充分上色再加番茄，酱汁小火收浓后更有层次。",
+    "tags": ["西餐", "家常菜", "一锅饭"],
+    "ingredients": [
+      {"name": "意大利面", "amount": 250, "unit": "克", "note": null},
+      {"name": "牛肉末", "amount": 250, "unit": "克", "note": null},
+      {"name": "番茄", "amount": 400, "unit": "克", "note": "去皮切丁"},
+      {"name": "洋葱", "amount": 0.5, "unit": "个", "note": "切末"},
+      {"name": "番茄酱", "amount": 2, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "意面煮熟备用；洋葱切末，番茄去皮切丁。", "duration_seconds": 600},
+      {"description": "锅中炒香洋葱，加入牛肉末炒至变色并上色，加入番茄酱翻炒。", "duration_seconds": 360},
+      {"description": "加入番茄丁和少量水，小火熬煮二十分钟，拌入意面并撒芝士。", "duration_seconds": 1200}
+    ],
+    "nutrition": {"calories": 560, "protein": 31, "carbs": 79, "fat": 14}
+  },
+  {
+    "name": "玛格丽特披萨",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "番茄、马苏里拉和罗勒组成的经典意式披萨，适合家庭烤箱制作。",
+    "difficulty": "medium",
+    "cooking_time": 60,
+    "servings": 2,
+    "tips": "烤箱和烤盘要充分预热，面饼不要擀得过厚，边缘留出气孔口感更好。",
+    "tags": ["西餐", "烘焙", "家常菜"],
+    "ingredients": [
+      {"name": "高筋面粉", "amount": 250, "unit": "克", "note": "制作面团"},
+      {"name": "番茄酱", "amount": 80, "unit": "克", "note": null},
+      {"name": "马苏里拉芝士", "amount": 150, "unit": "克", "note": "擦丝"},
+      {"name": "小番茄", "amount": 100, "unit": "克", "note": "切片"},
+      {"name": "罗勒叶", "amount": 10, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "面粉、酵母、温水和盐揉成面团，发酵至两倍大。", "duration_seconds": 1800},
+      {"description": "面团排气擀成圆饼，抹番茄酱，铺芝士和小番茄。", "duration_seconds": 300},
+      {"description": "烤箱预热至230度，披萨烘烤十至十二分钟，出炉后放罗勒叶。", "duration_seconds": 720}
+    ],
+    "nutrition": {"calories": 680, "protein": 29, "carbs": 89, "fat": 23}
+  },
+  {
+    "name": "戚风蛋糕",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "组织轻盈、口感柔软的基础烘焙蛋糕，适合下午茶或早餐。",
+    "difficulty": "hard",
+    "cooking_time": 80,
+    "servings": 6,
+    "tips": "蛋白霜要打到提起打蛋器有直立小尖角，出炉后立即倒扣防止塌陷。",
+    "tags": ["烘焙", "甜品", "早餐"],
+    "ingredients": [
+      {"name": "鸡蛋", "amount": 5, "unit": "个", "note": "分离蛋清蛋黄"},
+      {"name": "低筋面粉", "amount": 85, "unit": "克", "note": "过筛"},
+      {"name": "牛奶", "amount": 50, "unit": "克", "note": null},
+      {"name": "玉米油", "amount": 45, "unit": "克", "note": null},
+      {"name": "细砂糖", "amount": 70, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "蛋黄与玉米油、牛奶混合，筛入低筋面粉拌成细腻蛋黄糊。", "duration_seconds": 300},
+      {"description": "蛋白分三次加入砂糖，打发至硬性发泡，再分次与蛋黄糊翻拌均匀。", "duration_seconds": 600},
+      {"description": "面糊倒入模具，轻震气泡，烤箱150度烘烤约五十分钟，出炉倒扣冷却。", "duration_seconds": 3000}
+    ],
+    "nutrition": {"calories": 310, "protein": 8, "carbs": 37, "fat": 15}
+  },
+  {
+    "name": "巧克力熔岩蛋糕",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "外层松软、中心流心的巧克力甜点，适合现烤现吃。",
+    "difficulty": "medium",
+    "cooking_time": 35,
+    "servings": 2,
+    "tips": "模具内壁充分涂黄油并撒粉，烘烤时间要根据模具大小调整，中心保持流动即可。",
+    "tags": ["烘焙", "甜品", "巧克力"],
+    "ingredients": [
+      {"name": "黑巧克力", "amount": 100, "unit": "克", "note": "可可含量55%以上"},
+      {"name": "黄油", "amount": 80, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "低筋面粉", "amount": 35, "unit": "克", "note": "过筛"},
+      {"name": "细砂糖", "amount": 30, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "黑巧克力与黄油隔热水融化，搅拌至顺滑。", "duration_seconds": 300},
+      {"description": "鸡蛋加入砂糖打散，倒入巧克力液，筛入面粉翻拌均匀。", "duration_seconds": 240},
+      {"description": "面糊倒入涂油的模具，烤箱200度烘烤八至十分钟，脱模后趁热食用。", "duration_seconds": 600}
+    ],
+    "nutrition": {"calories": 570, "protein": 11, "carbs": 48, "fat": 37}
+  },
+  {
+    "name": "巴斯克芝士蛋糕",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "表面焦香、内部绵密的免装饰芝士蛋糕，冷藏后风味更好。",
+    "difficulty": "medium",
+    "cooking_time": 70,
+    "servings": 6,
+    "tips": "奶油奶酪提前软化并搅拌顺滑，烘烤时表面上色即可，中心轻微晃动是正常状态。",
+    "tags": ["烘焙", "甜品", "芝士"],
+    "ingredients": [
+      {"name": "奶油奶酪", "amount": 500, "unit": "克", "note": "室温软化"},
+      {"name": "鸡蛋", "amount": 3, "unit": "个", "note": null},
+      {"name": "淡奶油", "amount": 250, "unit": "克", "note": null},
+      {"name": "细砂糖", "amount": 120, "unit": "克", "note": null},
+      {"name": "玉米淀粉", "amount": 15, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "奶油奶酪加糖搅拌顺滑，分次加入鸡蛋拌匀。", "duration_seconds": 300},
+      {"description": "倒入淡奶油，筛入玉米淀粉，搅拌至无颗粒后过筛入模具。", "duration_seconds": 240},
+      {"description": "烤箱230度烘烤三十五至四十分钟，冷却后冷藏至少四小时再切块。", "duration_seconds": 14400}
+    ],
+    "nutrition": {"calories": 430, "protein": 8, "carbs": 30, "fat": 31}
+  },
+  {
+    "name": "提拉米苏",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "咖啡香与奶酪香交织的经典意式甜品，冷藏后口感细腻。",
+    "difficulty": "medium",
+    "cooking_time": 240,
+    "servings": 6,
+    "tips": "手指饼干蘸咖啡液要快，避免过度吸液变软；冷藏时间越足，切面越稳定。",
+    "tags": ["烘焙", "甜品", "免烤"],
+    "ingredients": [
+      {"name": "马斯卡彭奶酪", "amount": 250, "unit": "克", "note": null},
+      {"name": "手指饼干", "amount": 200, "unit": "克", "note": null},
+      {"name": "浓缩咖啡", "amount": 180, "unit": "毫升", "note": "放凉"},
+      {"name": "淡奶油", "amount": 200, "unit": "克", "note": "打发"},
+      {"name": "可可粉", "amount": 10, "unit": "克", "note": "表面装饰"}
+    ],
+    "steps": [
+      {"description": "马斯卡彭搅拌顺滑，淡奶油加糖打发后与奶酪翻拌成慕斯糊。", "duration_seconds": 420},
+      {"description": "手指饼干快速蘸咖啡液，铺在容器底部，覆盖一层奶酪糊并重复分层。", "duration_seconds": 600},
+      {"description": "表面抹平后冷藏至少四小时，食用前筛上可可粉。", "duration_seconds": 14400}
+    ],
+    "nutrition": {"calories": 390, "protein": 7, "carbs": 42, "fat": 22}
+  },
+  {
+    "name": "皮蛋瘦肉粥",
+    "cuisine": "粤菜",
+    "meal_type": "breakfast",
+    "description": "米粥绵滑、咸鲜暖胃的广式早餐，适合家常制作。",
+    "difficulty": "easy",
+    "cooking_time": 50,
+    "servings": 3,
+    "tips": "大米提前浸泡并加少量油，煮出的粥更快开花；皮蛋最后放入保持口感。",
+    "tags": ["粤菜", "早餐", "家常菜"],
+    "ingredients": [
+      {"name": "大米", "amount": 120, "unit": "克", "note": null},
+      {"name": "瘦猪肉", "amount": 120, "unit": "克", "note": "切丝"},
+      {"name": "皮蛋", "amount": 2, "unit": "个", "note": "切丁"},
+      {"name": "生姜", "amount": 10, "unit": "克", "note": "切丝"},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "大米洗净浸泡二十分钟，瘦肉用盐、料酒和淀粉腌制。", "duration_seconds": 1200},
+      {"description": "大米加足量水煮开，转小火熬至米粒开花。", "duration_seconds": 1800},
+      {"description": "加入肉丝、皮蛋和姜丝煮熟，用盐调味，撒葱花即可。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 280, "protein": 18, "carbs": 42, "fat": 5}
+  },
+  {
+    "name": "鲜肉小笼包",
+    "cuisine": "苏菜",
+    "meal_type": "breakfast",
+    "description": "皮薄馅多、汤汁鲜美的淮扬风味早餐，适合周末制作。",
+    "difficulty": "hard",
+    "cooking_time": 90,
+    "servings": 4,
+    "tips": "肉馅加入冻高汤或皮冻，擀皮时中间略厚、边缘薄，蒸好后不易破。",
+    "tags": ["苏菜", "早餐", "宴客菜"],
+    "ingredients": [
+      {"name": "中筋面粉", "amount": 300, "unit": "克", "note": "制作面皮"},
+      {"name": "猪肉馅", "amount": 300, "unit": "克", "note": "肥瘦三七"},
+      {"name": "猪皮冻", "amount": 180, "unit": "克", "note": "切碎"},
+      {"name": "小葱", "amount": 3, "unit": "根", "note": "切末"},
+      {"name": "生姜", "amount": 15, "unit": "克", "note": "切末"}
+    ],
+    "steps": [
+      {"description": "面粉加温水揉成面团，醒面三十分钟；肉馅加入葱姜、调料和猪皮冻搅匀。", "duration_seconds": 1800},
+      {"description": "面团分剂擀成薄皮，包入肉馅并捏成小笼包。", "duration_seconds": 1800},
+      {"description": "蒸笼垫纸，水开后大火蒸八至十分钟，关火焖两分钟即可。", "duration_seconds": 720}
+    ],
+    "nutrition": {"calories": 470, "protein": 21, "carbs": 59, "fat": 17}
+  },
+  {
+    "name": "葱油拌面",
+    "cuisine": "苏菜",
+    "meal_type": "breakfast",
+    "description": "葱香浓郁、咸甜适口的江南快手面食，食材简单易做。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "小火慢炸葱段至焦黄，葱油香气更足；酱汁比例可按口味调整。",
+    "tags": ["苏菜", "早餐", "快手菜"],
+    "ingredients": [
+      {"name": "细面条", "amount": 200, "unit": "克", "note": null},
+      {"name": "小葱", "amount": 100, "unit": "克", "note": "切段"},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null},
+      {"name": "老抽", "amount": 0.5, "unit": "勺", "note": null},
+      {"name": "白糖", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "面条煮熟后过冷水，沥干备用。", "duration_seconds": 180},
+      {"description": "锅中放油，下葱段小火慢炸至焦黄，捞出部分葱段。", "duration_seconds": 360},
+      {"description": "加入生抽、老抽和白糖煮开，拌入面条，撒上葱段即可。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 410, "protein": 11, "carbs": 69, "fat": 12}
+  },
+  {
+    "name": "法式吐司",
+    "cuisine": "西餐",
+    "meal_type": "breakfast",
+    "description": "外层微焦、内部柔软的西式早餐，可搭配水果和酸奶。",
+    "difficulty": "easy",
+    "cooking_time": 15,
+    "servings": 2,
+    "tips": "吐司浸蛋液时间不宜过长，使用不粘锅中小火煎制更容易上色均匀。",
+    "tags": ["西餐", "早餐", "快手菜"],
+    "ingredients": [
+      {"name": "吐司", "amount": 4, "unit": "片", "note": null},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "牛奶", "amount": 80, "unit": "毫升", "note": null},
+      {"name": "黄油", "amount": 20, "unit": "克", "note": null},
+      {"name": "蜂蜜", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡蛋和牛奶混合打匀，吐司两面快速蘸取蛋奶液。", "duration_seconds": 120},
+      {"description": "平底锅融化黄油，放入吐司中小火煎至两面金黄。", "duration_seconds": 240},
+      {"description": "装盘后淋蜂蜜，搭配水果食用。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 360, "protein": 14, "carbs": 43, "fat": 16}
+  },
+  {
+    "name": "蓝莓松饼",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "松软香甜、果香清新的早餐松饼，适合烤箱或空气炸锅制作。",
+    "difficulty": "easy",
+    "cooking_time": 35,
+    "servings": 6,
+    "tips": "面糊拌到看不见干粉即可，过度搅拌会让松饼口感发硬。",
+    "tags": ["烘焙", "早餐", "甜品"],
+    "ingredients": [
+      {"name": "低筋面粉", "amount": 180, "unit": "克", "note": "过筛"},
+      {"name": "蓝莓", "amount": 120, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 1, "unit": "个", "note": null},
+      {"name": "牛奶", "amount": 120, "unit": "毫升", "note": null},
+      {"name": "泡打粉", "amount": 5, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡蛋、牛奶、融化黄油和砂糖混合，筛入面粉和泡打粉。", "duration_seconds": 180},
+      {"description": "翻拌至无明显干粉，加入一半蓝莓轻轻拌匀，分装入纸杯。", "duration_seconds": 180},
+      {"description": "表面放剩余蓝莓，烤箱180度烘烤约二十分钟。", "duration_seconds": 1200}
+    ],
+    "nutrition": {"calories": 250, "protein": 6, "carbs": 37, "fat": 9}
+  },
+  {
+    "name": "牛油果鸡蛋吐司",
+    "cuisine": "西餐",
+    "meal_type": "breakfast",
+    "description": "清爽饱腹的开放式吐司，适合工作日快速早餐。",
+    "difficulty": "easy",
+    "cooking_time": 12,
+    "servings": 2,
+    "tips": "牛油果成熟度以能轻松压成泥为准，鸡蛋煎到蛋白凝固即可保持口感。",
+    "tags": ["西餐", "早餐", "高蛋白"],
+    "ingredients": [
+      {"name": "全麦吐司", "amount": 4, "unit": "片", "note": null},
+      {"name": "牛油果", "amount": 1, "unit": "个", "note": "压泥"},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "小番茄", "amount": 100, "unit": "克", "note": "对半切"},
+      {"name": "黑胡椒", "amount": 1, "unit": "克", "note": "现磨"}
+    ],
+    "steps": [
+      {"description": "吐司烤至表面微脆，牛油果压泥并加盐和黑胡椒调味。", "duration_seconds": 180},
+      {"description": "平底锅煎鸡蛋至喜欢的熟度。", "duration_seconds": 180},
+      {"description": "吐司抹牛油果泥，放上煎蛋和小番茄即可。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 340, "protein": 16, "carbs": 35, "fat": 17}
+  },
+  {
+    "name": "回锅肉",
+    "cuisine": "川菜",
+    "meal_type": "lunch",
+    "description": "肉片微焦、豆瓣酱香浓郁的川味经典家常菜。",
+    "difficulty": "easy",
+    "cooking_time": 30,
+    "servings": 3,
+    "tips": "五花肉煮到刚熟再切片，煸炒至卷曲出油，成菜更香而不腻。",
+    "tags": ["川菜", "下饭菜", "家常菜"],
+    "ingredients": [
+      {"name": "五花肉", "amount": 300, "unit": "克", "note": null},
+      {"name": "蒜苗", "amount": 150, "unit": "克", "note": "切段"},
+      {"name": "郫县豆瓣酱", "amount": 1, "unit": "勺", "note": "剁细"},
+      {"name": "甜面酱", "amount": 1, "unit": "茶匙", "note": null},
+      {"name": "生姜", "amount": 10, "unit": "克", "note": "切片"}
+    ],
+    "steps": [
+      {"description": "五花肉冷水下锅，加姜片煮至七成熟，放凉后切薄片。", "duration_seconds": 900},
+      {"description": "锅中少油煸炒肉片至卷曲出油，加入豆瓣酱和甜面酱炒出红油。", "duration_seconds": 240},
+      {"description": "加入蒜苗先炒根部再炒叶部，断生后即可出锅。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 560, "protein": 24, "carbs": 11, "fat": 45}
+  },
+  {
+    "name": "鱼香肉丝",
+    "cuisine": "川菜",
+    "meal_type": "lunch",
+    "description": "咸甜酸辣兼具、肉丝嫩滑的经典川味小炒。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "鱼香汁提前调好，肉丝和配菜分别快速炒制，最后合锅能保持爽脆。",
+    "tags": ["川菜", "快手菜", "下饭菜"],
+    "ingredients": [
+      {"name": "猪里脊", "amount": 250, "unit": "克", "note": "切丝"},
+      {"name": "木耳", "amount": 50, "unit": "克", "note": "泡发切丝"},
+      {"name": "胡萝卜", "amount": 0.5, "unit": "根", "note": "切丝"},
+      {"name": "泡椒", "amount": 3, "unit": "个", "note": "切末"},
+      {"name": "米醋", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "肉丝加生抽、料酒和淀粉腌制，调好米醋、糖、生抽和淀粉组成的鱼香汁。", "duration_seconds": 600},
+      {"description": "热锅滑炒肉丝至变色，盛出备用；锅中炒香泡椒、姜蒜末。", "duration_seconds": 180},
+      {"description": "加入木耳和胡萝卜丝翻炒，倒回肉丝和鱼香汁，快速收汁。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 430, "protein": 34, "carbs": 24, "fat": 23}
+  },
+  {
+    "name": "西湖醋鱼",
+    "cuisine": "浙菜",
+    "meal_type": "lunch",
+    "description": "鱼肉嫩滑、糖醋汁清亮的杭州传统名菜。",
+    "difficulty": "medium",
+    "cooking_time": 35,
+    "servings": 2,
+    "tips": "鱼要选新鲜活鱼，煮鱼时保持微沸，鱼肉刚熟即可捞出避免变老。",
+    "tags": ["浙菜", "海鲜", "宴客菜"],
+    "ingredients": [
+      {"name": "草鱼", "amount": 1, "unit": "条", "note": "约700克，处理干净"},
+      {"name": "米醋", "amount": 3, "unit": "勺", "note": null},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null},
+      {"name": "白糖", "amount": 2, "unit": "勺", "note": null},
+      {"name": "姜末", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "草鱼从中间剖开，锅中加姜片和料酒烧至微沸，放入鱼肉浸煮。", "duration_seconds": 900},
+      {"description": "鱼肉变白熟透后捞出装盘，煮鱼汤过滤备用。", "duration_seconds": 600},
+      {"description": "锅中加入鱼汤、米醋、生抽和白糖，勾薄芡后淋在鱼身上。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 330, "protein": 43, "carbs": 17, "fat": 10}
+  },
+  {
+    "name": "佛跳墙",
+    "cuisine": "闽菜",
+    "meal_type": "lunch",
+    "description": "食材丰富、汤味醇厚的闽菜名品，适合节庆聚餐。",
+    "difficulty": "hard",
+    "cooking_time": 120,
+    "servings": 4,
+    "tips": "海味食材分别处理去腥，炖煮时不宜大火翻滚，避免汤浑和食材散碎。",
+    "tags": ["闽菜", "宴客菜", "慢炖"],
+    "ingredients": [
+      {"name": "水发海参", "amount": 2, "unit": "只", "note": null},
+      {"name": "干贝", "amount": 30, "unit": "克", "note": "提前泡发"},
+      {"name": "花胶", "amount": 50, "unit": "克", "note": "提前泡发"},
+      {"name": "鸡腿", "amount": 2, "unit": "只", "note": "去骨切块"},
+      {"name": "高汤", "amount": 1000, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "海参、花胶和干贝分别泡发，鸡腿焯水去腥。", "duration_seconds": 1800},
+      {"description": "将所有食材分层放入砂锅，加入高汤、黄酒和姜片。", "duration_seconds": 300},
+      {"description": "小火加盖炖煮约九十分钟，最后用盐调味并保持汤汁清亮。", "duration_seconds": 5400}
+    ],
+    "nutrition": {"calories": 430, "protein": 51, "carbs": 8, "fat": 22}
+  },
+  {
+    "name": "香煎鸡胸沙拉",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "高蛋白、低负担的西式午餐，蔬菜和鸡胸一次完成。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "鸡胸从中间片薄并拍松，煎好后静置几分钟再切，肉质更嫩。",
+    "tags": ["西餐", "高蛋白", "清淡"],
+    "ingredients": [
+      {"name": "鸡胸肉", "amount": 300, "unit": "克", "note": "横向片薄"},
+      {"name": "生菜", "amount": 150, "unit": "克", "note": null},
+      {"name": "小番茄", "amount": 150, "unit": "克", "note": "对半切"},
+      {"name": "玉米粒", "amount": 80, "unit": "克", "note": null},
+      {"name": "橄榄油", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡胸肉用盐、黑胡椒和橄榄油腌制十分钟，生菜和番茄洗净。", "duration_seconds": 600},
+      {"description": "平底锅中火煎鸡胸肉，两面金黄且内部熟透后出锅静置。", "duration_seconds": 360},
+      {"description": "蔬菜、玉米和切片鸡胸装盘，淋油醋汁即可。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 320, "protein": 43, "carbs": 18, "fat": 10}
+  },
+  {
+    "name": "海鲜炒乌冬",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "面条弹滑、海鲜鲜香的一锅式午餐，适合快速解决一餐。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "乌冬面先用热水拆散，海鲜快速炒熟后再与面条合锅，避免过度加热。",
+    "tags": ["西餐", "快手菜", "一锅饭"],
+    "ingredients": [
+      {"name": "乌冬面", "amount": 400, "unit": "克", "note": null},
+      {"name": "虾仁", "amount": 120, "unit": "克", "note": null},
+      {"name": "鱿鱼", "amount": 100, "unit": "克", "note": "切圈"},
+      {"name": "彩椒", "amount": 100, "unit": "克", "note": "切丝"},
+      {"name": "蚝油", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "乌冬面热水焯散，虾仁和鱿鱼用料酒、黑胡椒腌五分钟。", "duration_seconds": 300},
+      {"description": "锅中炒香蒜末，加入海鲜快速翻炒至变色。", "duration_seconds": 150},
+      {"description": "加入彩椒和乌冬面，用蚝油、生抽调味，大火翻炒均匀。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 490, "protein": 31, "carbs": 67, "fat": 11}
+  },
+  {
+    "name": "奶油培根意面",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "培根咸香、酱汁顺滑的经典西式意面，适合家庭午餐。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "培根本身有咸味，盐要少放；用煮面水调整酱汁浓稠度，避免奶油糊锅。",
+    "tags": ["西餐", "快手菜", "家常菜"],
+    "ingredients": [
+      {"name": "意大利面", "amount": 200, "unit": "克", "note": null},
+      {"name": "培根", "amount": 100, "unit": "克", "note": "切片"},
+      {"name": "淡奶油", "amount": 150, "unit": "毫升", "note": null},
+      {"name": "鸡蛋黄", "amount": 2, "unit": "个", "note": null},
+      {"name": "帕玛森芝士", "amount": 30, "unit": "克", "note": "擦碎"}
+    ],
+    "steps": [
+      {"description": "意面煮至有硬芯，留煮面水；蛋黄、淡奶油和芝士混合成酱汁。", "duration_seconds": 600},
+      {"description": "培根煎出油脂并微微焦脆，放入意面翻拌。", "duration_seconds": 240},
+      {"description": "关火后倒入奶油蛋黄酱汁，利用余温拌匀，必要时加煮面水调节。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 650, "protein": 25, "carbs": 76, "fat": 28}
+  },
+  {
+    "name": "蔬菜咖喱饭",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "咖喱香浓、蔬菜软糯的一锅饭，适合工作日快速准备。",
+    "difficulty": "easy",
+    "cooking_time": 35,
+    "servings": 3,
+    "tips": "蔬菜切成大小一致的块，咖喱块最后放入并小火融化，汤汁更细腻。",
+    "tags": ["西餐", "家常菜", "一锅饭"],
+    "ingredients": [
+      {"name": "米饭", "amount": 400, "unit": "克", "note": null},
+      {"name": "土豆", "amount": 2, "unit": "个", "note": "切块"},
+      {"name": "胡萝卜", "amount": 1, "unit": "根", "note": "切块"},
+      {"name": "洋葱", "amount": 1, "unit": "个", "note": "切块"},
+      {"name": "咖喱块", "amount": 3, "unit": "块", "note": null}
+    ],
+    "steps": [
+      {"description": "锅中炒香洋葱，加入土豆和胡萝卜翻炒两分钟。", "duration_seconds": 180},
+      {"description": "加入清水没过蔬菜，大火煮开后转小火煮至蔬菜变软。", "duration_seconds": 1200},
+      {"description": "关小火放入咖喱块搅拌融化，再煮五分钟，浇在米饭上。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 450, "protein": 9, "carbs": 82, "fat": 10}
+  },
+  {
+    "name": "水煮鱼",
+    "cuisine": "川菜",
+    "meal_type": "dinner",
+    "description": "鱼片嫩滑、麻辣鲜香的川菜名品，适合多人分享。",
+    "difficulty": "medium",
+    "cooking_time": 45,
+    "servings": 4,
+    "tips": "鱼片用蛋清和淀粉抓匀，汤底沸腾后关小火下鱼片，避免久煮变老。",
+    "tags": ["川菜", "海鲜", "下饭菜"],
+    "ingredients": [
+      {"name": "草鱼片", "amount": 500, "unit": "克", "note": "切薄片"},
+      {"name": "黄豆芽", "amount": 200, "unit": "克", "note": null},
+      {"name": "郫县豆瓣酱", "amount": 2, "unit": "勺", "note": null},
+      {"name": "干辣椒", "amount": 20, "unit": "个", "note": null},
+      {"name": "花椒", "amount": 5, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "鱼片用盐、料酒、蛋清和淀粉腌制，黄豆芽焯熟铺在碗底。", "duration_seconds": 600},
+      {"description": "锅中炒香豆瓣酱、姜蒜和干辣椒，加入高汤煮开并调味。", "duration_seconds": 300},
+      {"description": "转小火逐片下鱼片，煮至变白后连汤倒入碗中，淋热油激香花椒和辣椒。", "duration_seconds": 240}
+    ],
+    "nutrition": {"calories": 470, "protein": 50, "carbs": 16, "fat": 24}
+  },
+  {
+    "name": "干煸四季豆",
+    "cuisine": "川菜",
+    "meal_type": "dinner",
+    "description": "四季豆干香爽脆、微辣下饭的经典川味素菜。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "四季豆必须彻底加热至熟透，煸炒到表皮起皱更香。",
+    "tags": ["川菜", "家常菜", "下饭菜"],
+    "ingredients": [
+      {"name": "四季豆", "amount": 400, "unit": "克", "note": "去筋掰段"},
+      {"name": "猪肉末", "amount": 80, "unit": "克", "note": null},
+      {"name": "干辣椒", "amount": 6, "unit": "个", "note": "剪段"},
+      {"name": "花椒", "amount": 2, "unit": "克", "note": null},
+      {"name": "芽菜", "amount": 30, "unit": "克", "note": "切碎"}
+    ],
+    "steps": [
+      {"description": "四季豆洗净擦干，锅中多放些油煸炒至表面起皱并熟透，盛出沥油。", "duration_seconds": 480},
+      {"description": "锅中留底油，炒香花椒、干辣椒和肉末。", "duration_seconds": 180},
+      {"description": "加入芽菜和四季豆，调入生抽、糖，快速翻炒均匀。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 330, "protein": 15, "carbs": 28, "fat": 19}
+  },
+  {
+    "name": "法式焗鸡腿",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "鸡皮焦香、肉质多汁的家用烤箱西餐，搭配土豆即可成餐。",
+    "difficulty": "medium",
+    "cooking_time": 55,
+    "servings": 2,
+    "tips": "鸡腿皮面擦干并先煎上色，烤制时皮朝上，出炉后静置几分钟再切。",
+    "tags": ["西餐", "高蛋白", "烘焙"],
+    "ingredients": [
+      {"name": "带皮鸡腿", "amount": 2, "unit": "只", "note": "去骨或不去骨均可"},
+      {"name": "土豆", "amount": 300, "unit": "克", "note": "切块"},
+      {"name": "迷迭香", "amount": 2, "unit": "枝", "note": null},
+      {"name": "大蒜", "amount": 4, "unit": "瓣", "note": "拍破"},
+      {"name": "橄榄油", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡腿用盐、黑胡椒、橄榄油和迷迭香腌制十五分钟，土豆切块。", "duration_seconds": 900},
+      {"description": "平底锅先煎鸡腿皮面至金黄，土豆和大蒜拌油盐后铺入烤盘。", "duration_seconds": 300},
+      {"description": "鸡腿皮朝上放在土豆上，烤箱200度烘烤三十分钟至完全熟透。", "duration_seconds": 1800}
+    ],
+    "nutrition": {"calories": 570, "protein": 45, "carbs": 34, "fat": 28}
+  },
+  {
+    "name": "木须肉",
+    "cuisine": "鲁菜",
+    "meal_type": "lunch",
+    "description": "鸡蛋嫩香、肉片滑爽的鲁菜家常小炒，配米饭很合适。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "肉片先上浆，鸡蛋单独炒至凝固，最后合炒能保持食材口感。",
+    "tags": ["鲁菜", "家常菜", "快手菜"],
+    "ingredients": [
+      {"name": "猪里脊", "amount": 200, "unit": "克", "note": "切片"},
+      {"name": "鸡蛋", "amount": 3, "unit": "个", "note": "打散"},
+      {"name": "木耳", "amount": 80, "unit": "克", "note": "泡发"},
+      {"name": "黄瓜", "amount": 1, "unit": "根", "note": "切片"},
+      {"name": "大葱", "amount": 0.5, "unit": "根", "note": "切段"}
+    ],
+    "steps": [
+      {"description": "猪肉片加生抽、料酒和淀粉腌制十分钟，木耳焯水备用。", "duration_seconds": 600},
+      {"description": "鸡蛋炒至刚刚凝固盛出，锅中滑炒肉片至变色。", "duration_seconds": 180},
+      {"description": "加入木耳、黄瓜和鸡蛋，用盐和生抽快速翻炒均匀。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 390, "protein": 31, "carbs": 12, "fat": 25}
+  },
+  {
+    "name": "九转大肠",
+    "cuisine": "鲁菜",
+    "meal_type": "dinner",
+    "description": "酸甜咸辣、软糯醇厚的鲁菜传统名菜，适合节日宴客。",
+    "difficulty": "hard",
+    "cooking_time": 120,
+    "servings": 4,
+    "tips": "大肠要反复清洗去腥并充分煮熟，调味后小火收汁才能入味。",
+    "tags": ["鲁菜", "宴客菜", "下饭菜"],
+    "ingredients": [
+      {"name": "熟猪大肠", "amount": 500, "unit": "克", "note": "切段"},
+      {"name": "白糖", "amount": 30, "unit": "克", "note": null},
+      {"name": "米醋", "amount": 2, "unit": "勺", "note": null},
+      {"name": "花椒粉", "amount": 1, "unit": "克", "note": null},
+      {"name": "高汤", "amount": 400, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "熟大肠再次焯水去腥，沥干后切成段。", "duration_seconds": 300},
+      {"description": "锅中炒糖色，加入大肠翻炒，再加入生抽、米醋和高汤。", "duration_seconds": 300},
+      {"description": "小火煨煮四十分钟，收浓汤汁后撒花椒粉和香菜即可。", "duration_seconds": 2400}
+    ],
+    "nutrition": {"calories": 520, "protein": 25, "carbs": 22, "fat": 36}
+  },
+  {
+    "name": "夫妻肺片",
+    "cuisine": "川菜",
+    "meal_type": "lunch",
+    "description": "牛肉和牛杂薄片搭配红油调味，麻辣鲜香的川味凉菜。",
+    "difficulty": "medium",
+    "cooking_time": 60,
+    "servings": 4,
+    "tips": "牛杂煮好后充分冷却再切片，红油和花椒油按个人耐辣程度调整。",
+    "tags": ["川菜", "凉菜", "宴客菜"],
+    "ingredients": [
+      {"name": "牛腱子", "amount": 300, "unit": "克", "note": null},
+      {"name": "牛肚", "amount": 200, "unit": "克", "note": "处理干净"},
+      {"name": "红油", "amount": 3, "unit": "勺", "note": null},
+      {"name": "花椒油", "amount": 1, "unit": "勺", "note": null},
+      {"name": "花生碎", "amount": 30, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "牛腱和牛肚加卤料煮熟，捞出放凉后切薄片。", "duration_seconds": 2400},
+      {"description": "红油、花椒油、生抽、醋、糖和蒜末调成料汁。", "duration_seconds": 120},
+      {"description": "牛肉和牛肚装盘，淋料汁，撒花生碎和香菜即可。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 360, "protein": 39, "carbs": 8, "fat": 19}
+  },
+  {
+    "name": "鱼香茄子",
+    "cuisine": "川菜",
+    "meal_type": "dinner",
+    "description": "茄子软糯、鱼香汁酸甜微辣的家常素菜。",
+    "difficulty": "easy",
+    "cooking_time": 30,
+    "servings": 2,
+    "tips": "茄子先蒸或少油煎软，能减少吸油；鱼香汁最后加入更鲜亮。",
+    "tags": ["川菜", "家常菜", "下饭菜"],
+    "ingredients": [
+      {"name": "长茄子", "amount": 2, "unit": "根", "note": "切条"},
+      {"name": "猪肉末", "amount": 80, "unit": "克", "note": null},
+      {"name": "泡椒", "amount": 3, "unit": "个", "note": "切末"},
+      {"name": "米醋", "amount": 1, "unit": "勺", "note": null},
+      {"name": "蒜", "amount": 4, "unit": "瓣", "note": "切末"}
+    ],
+    "steps": [
+      {"description": "茄子切条后蒸五分钟，或用少量油煎至变软。", "duration_seconds": 300},
+      {"description": "锅中炒香肉末、泡椒和蒜末，加入生抽翻炒。", "duration_seconds": 180},
+      {"description": "放入茄子，加入米醋、白糖和少量水，小火焖五分钟收汁。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 300, "protein": 14, "carbs": 28, "fat": 16}
+  },
+  {
+    "name": "豉汁蒸排骨",
+    "cuisine": "粤菜",
+    "meal_type": "dinner",
+    "description": "排骨嫩滑、豉香浓郁的广式家常蒸菜。",
+    "difficulty": "medium",
+    "cooking_time": 45,
+    "servings": 3,
+    "tips": "排骨用清水浸泡去血水并充分腌制，蒸盘不要堆得太厚。",
+    "tags": ["粤菜", "家常菜", "宴客菜"],
+    "ingredients": [
+      {"name": "猪小排", "amount": 500, "unit": "克", "note": "剁小块"},
+      {"name": "豆豉", "amount": 20, "unit": "克", "note": "剁碎"},
+      {"name": "蒜", "amount": 4, "unit": "瓣", "note": "切末"},
+      {"name": "淀粉", "amount": 1, "unit": "勺", "note": null},
+      {"name": "小米椒", "amount": 2, "unit": "个", "note": "切圈"}
+    ],
+    "steps": [
+      {"description": "排骨浸泡去血水，加入豆豉、蒜末、生抽和淀粉腌制二十分钟。", "duration_seconds": 1200},
+      {"description": "排骨均匀铺入浅盘，撒上小米椒。", "duration_seconds": 120},
+      {"description": "水开后大火蒸二十五分钟，确认排骨熟透后出锅。", "duration_seconds": 1500}
+    ],
+    "nutrition": {"calories": 510, "protein": 32, "carbs": 9, "fat": 37}
+  },
+  {
+    "name": "广式腊味煲仔饭",
+    "cuisine": "粤菜",
+    "meal_type": "dinner",
+    "description": "米饭锅巴焦香、腊味油润的广式一锅饭。",
+    "difficulty": "medium",
+    "cooking_time": 50,
+    "servings": 2,
+    "tips": "米饭煮到水分将干时再放腊味，开盖前沿锅边淋少量油更容易形成锅巴。",
+    "tags": ["粤菜", "一锅饭", "家常菜"],
+    "ingredients": [
+      {"name": "大米", "amount": 250, "unit": "克", "note": "提前浸泡"},
+      {"name": "腊肠", "amount": 2, "unit": "根", "note": "切片"},
+      {"name": "腊肉", "amount": 100, "unit": "克", "note": "切片"},
+      {"name": "小油菜", "amount": 150, "unit": "克", "note": null},
+      {"name": "煲仔饭酱油", "amount": 2, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "大米浸泡三十分钟，砂锅刷油后加入米和清水。", "duration_seconds": 1800},
+      {"description": "大火煮开后转小火，米饭表面出现孔洞时铺上腊肠和腊肉。", "duration_seconds": 1200},
+      {"description": "继续焖煮十分钟，放入焯熟的小油菜，沿锅边淋酱油即可。", "duration_seconds": 600}
+    ],
+    "nutrition": {"calories": 690, "protein": 23, "carbs": 87, "fat": 27}
+  },
+  {
+    "name": "松鼠鳜鱼",
+    "cuisine": "苏菜",
+    "meal_type": "dinner",
+    "description": "鱼肉切花刀后炸至酥脆，淋酸甜汁的淮扬宴客菜。",
+    "difficulty": "hard",
+    "cooking_time": 50,
+    "servings": 3,
+    "tips": "花刀深度要均匀但不切断鱼皮，鱼身拍干淀粉后炸制更容易定型。",
+    "tags": ["苏菜", "宴客菜", "海鲜"],
+    "ingredients": [
+      {"name": "鳜鱼", "amount": 1, "unit": "条", "note": "约700克"},
+      {"name": "淀粉", "amount": 100, "unit": "克", "note": null},
+      {"name": "番茄酱", "amount": 3, "unit": "勺", "note": null},
+      {"name": "白糖", "amount": 2, "unit": "勺", "note": null},
+      {"name": "松子", "amount": 20, "unit": "克", "note": "烤香"}
+    ],
+    "steps": [
+      {"description": "鳜鱼去骨取肉，鱼肉切菱形花刀，鱼头和鱼尾保留完整。", "duration_seconds": 600},
+      {"description": "鱼肉和鱼头拍淀粉，油温六成热时炸至金黄酥脆。", "duration_seconds": 600},
+      {"description": "番茄酱、白糖、米醋和水煮成酸甜汁，淋在鱼身上并撒松子。", "duration_seconds": 240}
+    ],
+    "nutrition": {"calories": 520, "protein": 44, "carbs": 51, "fat": 18}
+  },
+  {
+    "name": "蟹粉狮子头",
+    "cuisine": "苏菜",
+    "meal_type": "dinner",
+    "description": "猪肉丸中加入蟹粉，汤汁清鲜、口感松软的淮扬菜。",
+    "difficulty": "hard",
+    "cooking_time": 90,
+    "servings": 4,
+    "tips": "肉馅要细切粗斩而非完全打泥，炖煮时汤面只保持微沸。",
+    "tags": ["苏菜", "宴客菜", "慢炖"],
+    "ingredients": [
+      {"name": "猪肉馅", "amount": 500, "unit": "克", "note": "肥瘦三七"},
+      {"name": "蟹肉", "amount": 120, "unit": "克", "note": "熟蟹肉"},
+      {"name": "荸荠", "amount": 100, "unit": "克", "note": "切碎"},
+      {"name": "娃娃菜", "amount": 300, "unit": "克", "note": null},
+      {"name": "高汤", "amount": 800, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "肉馅加入蟹肉、荸荠、葱姜水和调味料，顺一个方向搅至上劲。", "duration_seconds": 600},
+      {"description": "将肉馅团成大丸子，放入垫有娃娃菜的砂锅。", "duration_seconds": 300},
+      {"description": "加入高汤，小火加盖炖一小时，最后调整盐味。", "duration_seconds": 3600}
+    ],
+    "nutrition": {"calories": 530, "protein": 35, "carbs": 15, "fat": 36}
+  },
+  {
+    "name": "叫花鸡",
+    "cuisine": "浙菜",
+    "meal_type": "dinner",
+    "description": "荷叶包裹、泥封烘烤的浙江传统宴客菜，鸡肉鲜嫩多汁。",
+    "difficulty": "hard",
+    "cooking_time": 150,
+    "servings": 4,
+    "tips": "家庭烤箱可用锡纸和面团替代泥封，鸡腹中填料不要塞得过满。",
+    "tags": ["浙菜", "宴客菜", "烘焙"],
+    "ingredients": [
+      {"name": "整鸡", "amount": 1, "unit": "只", "note": "约1200克"},
+      {"name": "干荷叶", "amount": 1, "unit": "张", "note": "提前泡软"},
+      {"name": "香菇", "amount": 80, "unit": "克", "note": "泡发切丁"},
+      {"name": "糯米", "amount": 100, "unit": "克", "note": "提前浸泡"},
+      {"name": "黄泥或面团", "amount": 1000, "unit": "克", "note": "用于包裹"}
+    ],
+    "steps": [
+      {"description": "整鸡用盐、料酒和五香粉腌制一小时，糯米与香菇炒香后填入鸡腹。", "duration_seconds": 3600},
+      {"description": "荷叶包好整鸡，外层用黄泥或面团完全包裹。", "duration_seconds": 600},
+      {"description": "烤箱200度烘烤约两小时，敲开外壳后取出鸡肉食用。", "duration_seconds": 7200}
+    ],
+    "nutrition": {"calories": 610, "protein": 55, "carbs": 32, "fat": 29}
+  },
+  {
+    "name": "干炸响铃",
+    "cuisine": "浙菜",
+    "meal_type": "lunch",
+    "description": "豆腐皮炸得薄脆酥香的江南传统小吃，蘸甜面酱食用。",
+    "difficulty": "medium",
+    "cooking_time": 30,
+    "servings": 3,
+    "tips": "豆腐皮卷要扎紧，油温不宜过高，炸到金黄后立即捞出。",
+    "tags": ["浙菜", "小吃", "素食"],
+    "ingredients": [
+      {"name": "豆腐皮", "amount": 6, "unit": "张", "note": null},
+      {"name": "猪肉馅", "amount": 150, "unit": "克", "note": "可替换为素馅"},
+      {"name": "荸荠", "amount": 50, "unit": "克", "note": "切碎"},
+      {"name": "甜面酱", "amount": 2, "unit": "勺", "note": "蘸食"}
+    ],
+    "steps": [
+      {"description": "肉馅加入荸荠、葱姜和调味料拌匀，薄薄铺在豆腐皮上。", "duration_seconds": 300},
+      {"description": "将豆腐皮卷紧，切成小段并封口。", "duration_seconds": 300},
+      {"description": "油温五成热下锅，小火炸至金黄酥脆，搭配甜面酱食用。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 320, "protein": 19, "carbs": 18, "fat": 20}
+  },
+  {
+    "name": "五香卷",
+    "cuisine": "闽菜",
+    "meal_type": "lunch",
+    "description": "豆皮包裹肉馅和蔬菜炸制的闽南传统小吃，外酥里香。",
+    "difficulty": "medium",
+    "cooking_time": 45,
+    "servings": 4,
+    "tips": "馅料不要过湿，卷制时封口压紧，炸制时先定型再升温。",
+    "tags": ["闽菜", "小吃", "宴客菜"],
+    "ingredients": [
+      {"name": "豆皮", "amount": 4, "unit": "张", "note": null},
+      {"name": "猪肉馅", "amount": 300, "unit": "克", "note": null},
+      {"name": "胡萝卜", "amount": 100, "unit": "克", "note": "切丝"},
+      {"name": "荸荠", "amount": 100, "unit": "克", "note": "切碎"},
+      {"name": "五香粉", "amount": 2, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "肉馅、胡萝卜、荸荠和五香粉混合调味。", "duration_seconds": 300},
+      {"description": "豆皮铺开，放入馅料卷成长条，两端收紧。", "duration_seconds": 600},
+      {"description": "油温五成热下锅炸至定型，再升温复炸至金黄，切段食用。", "duration_seconds": 480}
+    ],
+    "nutrition": {"calories": 410, "protein": 23, "carbs": 23, "fat": 26}
+  },
+  {
+    "name": "海蛎煎",
+    "cuisine": "闽菜",
+    "meal_type": "breakfast",
+    "description": "海蛎鲜嫩、外层微焦的闽南特色早餐小吃。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "海蛎洗净后充分沥水，先让淀粉糊定型再倒蛋液，成品不易散。",
+    "tags": ["闽菜", "早餐", "海鲜"],
+    "ingredients": [
+      {"name": "鲜海蛎", "amount": 250, "unit": "克", "note": "洗净沥干"},
+      {"name": "鸡蛋", "amount": 3, "unit": "个", "note": "打散"},
+      {"name": "红薯淀粉", "amount": 50, "unit": "克", "note": null},
+      {"name": "小葱", "amount": 3, "unit": "根", "note": "切葱花"},
+      {"name": "甜辣酱", "amount": 2, "unit": "勺", "note": "蘸食"}
+    ],
+    "steps": [
+      {"description": "海蛎加入少量盐轻轻清洗，沥干后与红薯淀粉和葱花拌匀。", "duration_seconds": 300},
+      {"description": "平底锅放油，倒入海蛎淀粉糊，摊平后中火煎至底面定型。", "duration_seconds": 180},
+      {"description": "倒入蛋液，煎至两面金黄，切块后搭配甜辣酱。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 330, "protein": 27, "carbs": 23, "fat": 15}
+  },
+  {
+    "name": "腊味合蒸",
+    "cuisine": "湘菜",
+    "meal_type": "dinner",
+    "description": "腊肉、腊肠和腊鱼层层蒸制的湖南传统年菜。",
+    "difficulty": "medium",
+    "cooking_time": 45,
+    "servings": 4,
+    "tips": "腊味先用温水浸泡去除部分盐分，蒸好后再决定是否需要额外调味。",
+    "tags": ["湘菜", "宴客菜", "下饭菜"],
+    "ingredients": [
+      {"name": "腊肉", "amount": 200, "unit": "克", "note": "切片"},
+      {"name": "腊肠", "amount": 150, "unit": "克", "note": "切片"},
+      {"name": "腊鱼", "amount": 200, "unit": "克", "note": "切块"},
+      {"name": "豆豉", "amount": 15, "unit": "克", "note": null},
+      {"name": "干辣椒", "amount": 4, "unit": "个", "note": "切段"}
+    ],
+    "steps": [
+      {"description": "腊味温水浸泡并洗净，沥干后切片或切块。", "duration_seconds": 1200},
+      {"description": "腊肉、腊肠和腊鱼交错摆盘，撒豆豉和干辣椒。", "duration_seconds": 180},
+      {"description": "水开后大火蒸三十分钟，出锅撒葱花即可。", "duration_seconds": 1800}
+    ],
+    "nutrition": {"calories": 610, "protein": 31, "carbs": 8, "fat": 50}
+  },
+  {
+    "name": "湘西外婆菜",
+    "cuisine": "湘菜",
+    "meal_type": "lunch",
+    "description": "酸菜、辣椒和肉末炒出的湘西风味下饭菜。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "腌菜先尝咸淡，必要时浸泡；全程大火快炒更能保持香气。",
+    "tags": ["湘菜", "下饭菜", "快手菜"],
+    "ingredients": [
+      {"name": "腌萝卜干", "amount": 150, "unit": "克", "note": "切丁"},
+      {"name": "猪肉末", "amount": 100, "unit": "克", "note": null},
+      {"name": "小米椒", "amount": 5, "unit": "个", "note": "切圈"},
+      {"name": "青豆", "amount": 80, "unit": "克", "note": null},
+      {"name": "蒜", "amount": 3, "unit": "瓣", "note": "切末"}
+    ],
+    "steps": [
+      {"description": "腌萝卜干切丁，若过咸先浸泡十分钟后挤干。", "duration_seconds": 600},
+      {"description": "锅中炒香肉末、蒜末和小米椒，至肉末微微焦香。", "duration_seconds": 180},
+      {"description": "加入萝卜干和青豆，大火翻炒五分钟即可。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 280, "protein": 17, "carbs": 23, "fat": 14}
+  },
+  {
+    "name": "毛豆腐",
+    "cuisine": "徽菜",
+    "meal_type": "lunch",
+    "description": "经过发酵的豆腐煎至金黄，配辣椒酱食用的徽州特色菜。",
+    "difficulty": "medium",
+    "cooking_time": 30,
+    "servings": 2,
+    "tips": "购买正规发酵毛豆腐并充分加热，煎制时少翻动，表面更完整。",
+    "tags": ["徽菜", "特色菜", "素食"],
+    "ingredients": [
+      {"name": "毛豆腐", "amount": 300, "unit": "克", "note": "正规渠道购买"},
+      {"name": "辣椒酱", "amount": 2, "unit": "勺", "note": null},
+      {"name": "蒜", "amount": 3, "unit": "瓣", "note": "切末"},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "毛豆腐轻轻冲洗并擦干表面水分。", "duration_seconds": 120},
+      {"description": "平底锅放油，将毛豆腐煎至两面金黄并内部热透。", "duration_seconds": 480},
+      {"description": "加入蒜末和辣椒酱略炒，撒葱花后出锅。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 260, "protein": 20, "carbs": 13, "fat": 15}
+  },
+  {
+    "name": "徽州一品锅",
+    "cuisine": "徽菜",
+    "meal_type": "dinner",
+    "description": "多种荤素食材层层炖煮、汤味醇厚的徽州传统大菜。",
+    "difficulty": "hard",
+    "cooking_time": 100,
+    "servings": 6,
+    "tips": "食材按耐煮程度分层摆放，汤汁不宜过多，慢炖后味道更加集中。",
+    "tags": ["徽菜", "宴客菜", "慢炖"],
+    "ingredients": [
+      {"name": "五花肉", "amount": 300, "unit": "克", "note": "切块"},
+      {"name": "鸡腿", "amount": 2, "unit": "只", "note": "切块"},
+      {"name": "炸豆腐", "amount": 200, "unit": "克", "note": null},
+      {"name": "冬笋", "amount": 150, "unit": "克", "note": "切片"},
+      {"name": "高汤", "amount": 1000, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "五花肉和鸡腿分别焯水，冬笋焯水去涩。", "duration_seconds": 600},
+      {"description": "砂锅底部铺冬笋和豆腐，放入五花肉、鸡腿，加入高汤和调味料。", "duration_seconds": 300},
+      {"description": "大火煮开后转小火炖一小时，保持食材层次后上桌。", "duration_seconds": 3600}
+    ],
+    "nutrition": {"calories": 590, "protein": 38, "carbs": 18, "fat": 39}
+  },
+  {
+    "name": "培根蛋酱意面",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "蛋黄和芝士形成顺滑酱汁的意式经典意面。",
+    "difficulty": "medium",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "关火后再加入蛋黄芝士糊，利用面条余温乳化，避免蛋液结块。",
+    "tags": ["西餐", "快手菜", "家常菜"],
+    "ingredients": [
+      {"name": "意大利面", "amount": 200, "unit": "克", "note": null},
+      {"name": "培根", "amount": 100, "unit": "克", "note": "切丁"},
+      {"name": "蛋黄", "amount": 3, "unit": "个", "note": null},
+      {"name": "帕玛森芝士", "amount": 50, "unit": "克", "note": "擦碎"},
+      {"name": "黑胡椒", "amount": 2, "unit": "克", "note": "现磨"}
+    ],
+    "steps": [
+      {"description": "意面煮至有硬芯，保留一碗煮面水；蛋黄、芝士和黑胡椒混合。", "duration_seconds": 600},
+      {"description": "培根煎出油脂并变脆，加入意面翻拌。", "duration_seconds": 240},
+      {"description": "关火，倒入蛋黄芝士糊，加入煮面水快速拌匀至酱汁顺滑。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 620, "protein": 28, "carbs": 74, "fat": 25}
+  },
+  {
+    "name": "意式千层面",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "肉酱、白酱和芝士层层叠加的经典意式烤箱菜。",
+    "difficulty": "medium",
+    "cooking_time": 80,
+    "servings": 4,
+    "tips": "肉酱收浓后再组装，烘烤后静置十分钟切块，层次更完整。",
+    "tags": ["西餐", "烘焙", "宴客菜"],
+    "ingredients": [
+      {"name": "千层面片", "amount": 250, "unit": "克", "note": null},
+      {"name": "牛肉末", "amount": 300, "unit": "克", "note": null},
+      {"name": "番茄酱", "amount": 400, "unit": "克", "note": null},
+      {"name": "白酱", "amount": 300, "unit": "克", "note": null},
+      {"name": "马苏里拉芝士", "amount": 150, "unit": "克", "note": "擦丝"}
+    ],
+    "steps": [
+      {"description": "洋葱炒香后加入牛肉末，倒入番茄酱，小火熬成浓稠肉酱。", "duration_seconds": 1200},
+      {"description": "烤盘依次铺面片、肉酱、白酱和芝士，重复分层，顶部覆盖芝士。", "duration_seconds": 600},
+      {"description": "烤箱190度烘烤三十五分钟，出炉静置后切块。", "duration_seconds": 2100}
+    ],
+    "nutrition": {"calories": 680, "protein": 38, "carbs": 70, "fat": 28}
+  },
+  {
+    "name": "凯撒沙拉",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "生菜、鸡肉、面包丁和芝士搭配凯撒酱的经典沙拉。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "生菜一定要充分沥干，食用前再拌酱，保持蔬菜脆爽。",
+    "tags": ["西餐", "清淡", "高蛋白"],
+    "ingredients": [
+      {"name": "罗马生菜", "amount": 300, "unit": "克", "note": "撕成小片"},
+      {"name": "鸡胸肉", "amount": 200, "unit": "克", "note": "煎熟切片"},
+      {"name": "面包丁", "amount": 80, "unit": "克", "note": "烤脆"},
+      {"name": "帕玛森芝士", "amount": 30, "unit": "克", "note": "刨片"},
+      {"name": "凯撒沙拉酱", "amount": 3, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡胸肉用盐和黑胡椒腌制后煎熟，静置后切片。", "duration_seconds": 480},
+      {"description": "生菜洗净并充分沥干，面包丁烤至金黄酥脆。", "duration_seconds": 300},
+      {"description": "食用前将生菜、鸡肉、面包丁和沙拉酱拌匀，撒芝士片。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 360, "protein": 34, "carbs": 24, "fat": 16}
+  },
+  {
+    "name": "奶油蘑菇烩饭",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "米粒带有轻微硬芯、奶油香浓郁的意式烩饭。",
+    "difficulty": "medium",
+    "cooking_time": 40,
+    "servings": 2,
+    "tips": "高汤分次加入并不断搅拌，米粒释放淀粉后自然形成浓稠口感。",
+    "tags": ["西餐", "家常菜", "素食"],
+    "ingredients": [
+      {"name": "意大利烩饭米", "amount": 180, "unit": "克", "note": null},
+      {"name": "口蘑", "amount": 200, "unit": "克", "note": "切片"},
+      {"name": "洋葱", "amount": 0.5, "unit": "个", "note": "切末"},
+      {"name": "高汤", "amount": 700, "unit": "毫升", "note": "保持温热"},
+      {"name": "帕玛森芝士", "amount": 40, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "黄油炒香洋葱和蘑菇，加入米翻炒至米粒边缘透明。", "duration_seconds": 300},
+      {"description": "分次加入温热高汤，每次吸收后再加，持续搅拌约二十分钟。", "duration_seconds": 1200},
+      {"description": "米饭保留硬芯时关火，拌入黄油和芝士，静置两分钟即可。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 540, "protein": 18, "carbs": 77, "fat": 18}
+  },
+  {
+    "name": "法式洋葱汤",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "焦糖洋葱带来浓郁甜香，搭配芝士烤面包的经典汤品。",
+    "difficulty": "medium",
+    "cooking_time": 70,
+    "servings": 3,
+    "tips": "洋葱要用小火慢慢炒至深金色，焦糖化充分后汤底才有层次。",
+    "tags": ["西餐", "汤品", "烘焙"],
+    "ingredients": [
+      {"name": "洋葱", "amount": 600, "unit": "克", "note": "切薄片"},
+      {"name": "牛肉高汤", "amount": 800, "unit": "毫升", "note": null},
+      {"name": "法棍面包", "amount": 6, "unit": "片", "note": null},
+      {"name": "格鲁耶尔芝士", "amount": 100, "unit": "克", "note": "擦丝"},
+      {"name": "黄油", "amount": 30, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "黄油融化后加入洋葱，小火翻炒至深金色。", "duration_seconds": 2400},
+      {"description": "加入高汤和少量黑胡椒，煮开后小火熬煮二十分钟。", "duration_seconds": 1200},
+      {"description": "汤装入耐热碗，放上烤脆的法棍和芝士，烤至芝士融化上色。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 390, "protein": 18, "carbs": 46, "fat": 16}
+  },
+  {
+    "name": "美式松饼",
+    "cuisine": "西餐",
+    "meal_type": "breakfast",
+    "description": "蓬松柔软的西式早餐松饼，搭配蜂蜜、水果或酸奶食用。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 3,
+    "tips": "面糊保留少量颗粒即可，不要过度搅拌；锅温用中小火更容易熟透。",
+    "tags": ["西餐", "早餐", "甜品"],
+    "ingredients": [
+      {"name": "低筋面粉", "amount": 180, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "牛奶", "amount": 180, "unit": "毫升", "note": null},
+      {"name": "泡打粉", "amount": 6, "unit": "克", "note": null},
+      {"name": "蜂蜜", "amount": 2, "unit": "勺", "note": "食用时添加"}
+    ],
+    "steps": [
+      {"description": "鸡蛋、牛奶和融化黄油混合，筛入面粉和泡打粉拌成面糊。", "duration_seconds": 180},
+      {"description": "平底锅小火预热，舀入面糊，表面出现气泡时翻面。", "duration_seconds": 240},
+      {"description": "两面煎至金黄，叠放后淋蜂蜜或搭配水果。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 320, "protein": 10, "carbs": 48, "fat": 10}
+  },
+  {
+    "name": "苹果派",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "酥皮包裹肉桂苹果馅的经典西式烘焙甜点。",
+    "difficulty": "medium",
+    "cooking_time": 75,
+    "servings": 6,
+    "tips": "苹果馅先炒出水分并放凉，酥皮烘烤后才不容易塌陷或漏汁。",
+    "tags": ["烘焙", "早餐", "甜品"],
+    "ingredients": [
+      {"name": "苹果", "amount": 500, "unit": "克", "note": "去皮切丁"},
+      {"name": "低筋面粉", "amount": 250, "unit": "克", "note": "制作派皮"},
+      {"name": "黄油", "amount": 130, "unit": "克", "note": "冷藏切块"},
+      {"name": "细砂糖", "amount": 80, "unit": "克", "note": null},
+      {"name": "肉桂粉", "amount": 2, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "面粉、冷黄油和部分糖揉成酥皮面团，冷藏三十分钟。", "duration_seconds": 1800},
+      {"description": "苹果加糖和肉桂粉炒至变软收汁，放凉备用。", "duration_seconds": 480},
+      {"description": "派皮铺入模具，填入苹果馅并盖好表面，烤箱190度烘烤四十分钟。", "duration_seconds": 2400}
+    ],
+    "nutrition": {"calories": 390, "protein": 5, "carbs": 51, "fat": 19}
+  },
+  {
+    "name": "布朗尼",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "巧克力味浓郁、内部湿润的美式经典甜点。",
+    "difficulty": "easy",
+    "cooking_time": 40,
+    "servings": 9,
+    "tips": "面糊拌匀即可，不要过度搅拌；中心略微湿润时出炉，冷却后会凝固。",
+    "tags": ["烘焙", "早餐", "巧克力"],
+    "ingredients": [
+      {"name": "黑巧克力", "amount": 180, "unit": "克", "note": null},
+      {"name": "黄油", "amount": 120, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 3, "unit": "个", "note": null},
+      {"name": "低筋面粉", "amount": 90, "unit": "克", "note": "过筛"},
+      {"name": "核桃仁", "amount": 80, "unit": "克", "note": "切碎"}
+    ],
+    "steps": [
+      {"description": "黑巧克力和黄油隔水融化，搅拌顺滑后稍微放凉。", "duration_seconds": 300},
+      {"description": "鸡蛋和糖搅匀，加入巧克力液，再筛入面粉并拌入核桃仁。", "duration_seconds": 300},
+      {"description": "面糊倒入模具，烤箱175度烘烤二十五分钟，冷却后切块。", "duration_seconds": 1500}
+    ],
+    "nutrition": {"calories": 360, "protein": 6, "carbs": 34, "fat": 23}
+  },
+  {
+    "name": "油条",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "外酥里松的中式经典早餐，搭配豆浆或粥食用。",
+    "difficulty": "medium",
+    "cooking_time": 45,
+    "servings": 4,
+    "tips": "面团需要充分醒发，炸制时两根面坯叠压后轻轻拉长，油温保持稳定。",
+    "tags": ["早餐", "小吃", "家常菜"],
+    "ingredients": [
+      {"name": "中筋面粉", "amount": 300, "unit": "克", "note": null},
+      {"name": "泡打粉", "amount": 5, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 1, "unit": "个", "note": null},
+      {"name": "食用油", "amount": 800, "unit": "毫升", "note": "用于炸制"}
+    ],
+    "steps": [
+      {"description": "面粉、泡打粉、鸡蛋、盐和温水揉成偏软面团，表面刷油后冷藏醒发一晚。", "duration_seconds": 28800},
+      {"description": "面团回温后擀成长片，切成小条，两条叠放并用筷子压一下。", "duration_seconds": 600},
+      {"description": "油温约180度时下锅，边炸边翻动，至金黄蓬松后捞出沥油。", "duration_seconds": 240}
+    ],
+    "nutrition": {"calories": 280, "protein": 7, "carbs": 37, "fat": 12}
+  },
+  {
+    "name": "芝麻烧饼",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "外皮酥脆、内层松软并带有芝麻香的中式面点。",
+    "difficulty": "medium",
+    "cooking_time": 50,
+    "servings": 6,
+    "tips": "油酥要涂抹均匀，折叠次数越充分层次越多；烘烤前刷水再蘸芝麻更牢固。",
+    "tags": ["早餐", "小吃", "烘焙"],
+    "ingredients": [
+      {"name": "中筋面粉", "amount": 400, "unit": "克", "note": null},
+      {"name": "食用油", "amount": 60, "unit": "克", "note": "制作油酥"},
+      {"name": "白芝麻", "amount": 40, "unit": "克", "note": null},
+      {"name": "五香粉", "amount": 2, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "面粉加温水揉成面团，醒面二十分钟；面粉、油和五香粉调成油酥。", "duration_seconds": 1200},
+      {"description": "面团擀开抹油酥，卷起后分剂，擀成圆饼并折叠整形。", "duration_seconds": 900},
+      {"description": "饼面刷水蘸芝麻，烤箱200度烘烤二十分钟至两面金黄。", "duration_seconds": 1200}
+    ],
+    "nutrition": {"calories": 260, "protein": 7, "carbs": 39, "fat": 9}
+  },
+  {
+    "name": "自制豆浆",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "豆香浓郁的家常早餐饮品，可搭配油条和烧饼。",
+    "difficulty": "easy",
+    "cooking_time": 35,
+    "servings": 4,
+    "tips": "黄豆充分浸泡后更容易打细，豆浆煮沸后还要继续加热几分钟确保熟透。",
+    "tags": ["早餐", "饮品", "家常菜"],
+    "ingredients": [
+      {"name": "黄豆", "amount": 120, "unit": "克", "note": "提前浸泡"},
+      {"name": "清水", "amount": 1200, "unit": "毫升", "note": null},
+      {"name": "白糖", "amount": 20, "unit": "克", "note": "可选"}
+    ],
+    "steps": [
+      {"description": "黄豆清洗后浸泡六至八小时，挑去坏豆。", "duration_seconds": 28800},
+      {"description": "黄豆和清水放入破壁机打成豆浆，过滤掉豆渣。", "duration_seconds": 180},
+      {"description": "豆浆煮沸后转小火继续煮五分钟，按口味加糖。", "duration_seconds": 360}
+    ],
+    "nutrition": {"calories": 120, "protein": 9, "carbs": 8, "fat": 5}
+  },
+  {
+    "name": "煎饼果子",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "薄脆面饼包裹鸡蛋、酱料和蔬菜的中式街头早餐。",
+    "difficulty": "medium",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "面糊要稀且无颗粒，摊饼时锅面保持中小火，鸡蛋液才能均匀铺开。",
+    "tags": ["早餐", "小吃", "快手菜"],
+    "ingredients": [
+      {"name": "绿豆面粉", "amount": 100, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "薄脆", "amount": 2, "unit": "张", "note": null},
+      {"name": "甜面酱", "amount": 2, "unit": "勺", "note": null},
+      {"name": "生菜", "amount": 80, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "绿豆面粉加水调成流动面糊，平底锅刷薄油。", "duration_seconds": 180},
+      {"description": "倒入面糊摊薄，打入鸡蛋并摊开，撒葱花后翻面。", "duration_seconds": 180},
+      {"description": "刷甜面酱，放薄脆和生菜，卷起后切段食用。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 390, "protein": 16, "carbs": 47, "fat": 16}
+  },
+  {
+    "name": "肉夹馍",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "酥香白吉馍夹入卤肉的西北风味早餐和小吃。",
+    "difficulty": "medium",
+    "cooking_time": 100,
+    "servings": 4,
+    "tips": "卤肉要炖到能轻松夹散，馍烙好后趁热切开，夹入肉汁更香。",
+    "tags": ["早餐", "小吃", "慢炖"],
+    "ingredients": [
+      {"name": "五花肉", "amount": 500, "unit": "克", "note": "切大块"},
+      {"name": "中筋面粉", "amount": 400, "unit": "克", "note": "制作白吉馍"},
+      {"name": "卤料包", "amount": 1, "unit": "包", "note": null},
+      {"name": "青椒", "amount": 1, "unit": "个", "note": "切碎"}
+    ],
+    "steps": [
+      {"description": "五花肉焯水后加入卤料和清水，小火炖至软烂。", "duration_seconds": 3600},
+      {"description": "面粉加酵母和水揉面，醒发后分剂擀圆，平底锅烙至两面金黄。", "duration_seconds": 2400},
+      {"description": "卤肉剁碎，拌入青椒和少量卤汁，夹入热馍中。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 610, "protein": 28, "carbs": 69, "fat": 26}
+  },
+  {
+    "name": "鲜肉小馄饨",
+    "cuisine": "苏菜",
+    "meal_type": "breakfast",
+    "description": "皮薄汤鲜的小馄饨，适合做成清淡暖胃的早餐。",
+    "difficulty": "medium",
+    "cooking_time": 45,
+    "servings": 3,
+    "tips": "馅料打入葱姜水会更嫩，馄饨皮封口处不要沾太多水。",
+    "tags": ["苏菜", "早餐", "汤品"],
+    "ingredients": [
+      {"name": "馄饨皮", "amount": 40, "unit": "张", "note": null},
+      {"name": "猪肉馅", "amount": 250, "unit": "克", "note": null},
+      {"name": "紫菜", "amount": 10, "unit": "克", "note": null},
+      {"name": "虾皮", "amount": 10, "unit": "克", "note": null},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "猪肉馅加入葱姜水、生抽和香油，顺一个方向搅匀。", "duration_seconds": 300},
+      {"description": "馄饨皮包入适量肉馅，捏紧封口。", "duration_seconds": 900},
+      {"description": "碗中放紫菜、虾皮和调味料，馄饨煮熟后连汤盛入碗中。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 330, "protein": 20, "carbs": 43, "fat": 9}
+  },
+  {
+    "name": "广式肠粉",
+    "cuisine": "粤菜",
+    "meal_type": "breakfast",
+    "description": "米浆蒸成的薄透肠粉，搭配鸡蛋和酱汁口感滑嫩。",
+    "difficulty": "medium",
+    "cooking_time": 30,
+    "servings": 2,
+    "tips": "米浆薄薄铺开，蒸盘预热并刷油，肠粉会更容易脱盘。",
+    "tags": ["粤菜", "早餐", "快手菜"],
+    "ingredients": [
+      {"name": "肠粉专用粉", "amount": 150, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "生菜", "amount": 100, "unit": "克", "note": null},
+      {"name": "生抽", "amount": 3, "unit": "勺", "note": "调酱汁"},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "肠粉粉加水调成米浆，蒸盘刷油并预热。", "duration_seconds": 180},
+      {"description": "舀一层米浆，打入鸡蛋并放生菜，水开后大火蒸两分钟。", "duration_seconds": 120},
+      {"description": "用刮板卷起装盘，淋上生抽酱汁和热油，撒葱花。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 260, "protein": 12, "carbs": 42, "fat": 6}
+  },
+  {
+    "name": "糯米鸡",
+    "cuisine": "粤菜",
+    "meal_type": "breakfast",
+    "description": "荷叶包裹糯米、鸡肉和香菇蒸制的广式点心。",
+    "difficulty": "medium",
+    "cooking_time": 80,
+    "servings": 4,
+    "tips": "糯米提前浸泡并蒸至半熟，荷叶包裹要严实，蒸好后米粒更完整。",
+    "tags": ["粤菜", "早餐", "小吃"],
+    "ingredients": [
+      {"name": "糯米", "amount": 300, "unit": "克", "note": "提前浸泡"},
+      {"name": "鸡腿肉", "amount": 250, "unit": "克", "note": "切丁"},
+      {"name": "干荷叶", "amount": 4, "unit": "张", "note": "泡软"},
+      {"name": "干香菇", "amount": 60, "unit": "克", "note": "泡发切丁"},
+      {"name": "腊肠", "amount": 1, "unit": "根", "note": "切丁"}
+    ],
+    "steps": [
+      {"description": "糯米浸泡后蒸至半熟，鸡肉加生抽、料酒和淀粉腌制。", "duration_seconds": 1800},
+      {"description": "炒香鸡肉、香菇和腊肠，拌入半熟糯米。", "duration_seconds": 300},
+      {"description": "荷叶包入糯米馅，水开后大火蒸三十分钟。", "duration_seconds": 1800}
+    ],
+    "nutrition": {"calories": 490, "protein": 24, "carbs": 70, "fat": 13}
+  },
+  {
+    "name": "五香茶叶蛋",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "茶香和卤香浓郁的便携式中式早餐。",
+    "difficulty": "easy",
+    "cooking_time": 45,
+    "servings": 6,
+    "tips": "鸡蛋煮熟后敲出裂纹再卤，卤汁浸泡时间越长越入味。",
+    "tags": ["早餐", "小吃", "家常菜"],
+    "ingredients": [
+      {"name": "鸡蛋", "amount": 6, "unit": "个", "note": null},
+      {"name": "红茶", "amount": 8, "unit": "克", "note": null},
+      {"name": "八角", "amount": 2, "unit": "个", "note": null},
+      {"name": "生抽", "amount": 3, "unit": "勺", "note": null},
+      {"name": "桂皮", "amount": 1, "unit": "段", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡蛋冷水下锅煮八分钟，捞出敲裂蛋壳。", "duration_seconds": 480},
+      {"description": "锅中加入清水、红茶、八角、桂皮和生抽煮开。", "duration_seconds": 300},
+      {"description": "放入鸡蛋小火卤二十分钟，关火后浸泡数小时。", "duration_seconds": 1200}
+    ],
+    "nutrition": {"calories": 95, "protein": 8, "carbs": 1, "fat": 7}
+  },
+  {
+    "name": "小米南瓜粥",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "香甜顺滑、容易消化的家常早餐粥。",
+    "difficulty": "easy",
+    "cooking_time": 35,
+    "servings": 3,
+    "tips": "小米先浸泡并用开水下锅，南瓜后放可以保留块状口感。",
+    "tags": ["早餐", "清淡", "家常菜"],
+    "ingredients": [
+      {"name": "小米", "amount": 100, "unit": "克", "note": null},
+      {"name": "南瓜", "amount": 250, "unit": "克", "note": "切小块"},
+      {"name": "清水", "amount": 1200, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "小米洗净浸泡十分钟，南瓜去皮切块。", "duration_seconds": 600},
+      {"description": "水烧开后放入小米，大火煮开再转小火煮二十分钟。", "duration_seconds": 1200},
+      {"description": "加入南瓜继续煮十分钟至软烂，搅拌均匀即可。", "duration_seconds": 600}
+    ],
+    "nutrition": {"calories": 180, "protein": 4, "carbs": 39, "fat": 1}
+  },
+  {
+    "name": "番茄罗勒意面",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "番茄酸甜和罗勒清香结合的轻盈意式面食。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "番茄酱汁要略微收浓，加入煮面水可以让酱汁更好地裹住面条。",
+    "tags": ["西餐", "快手菜", "素食"],
+    "ingredients": [
+      {"name": "意大利面", "amount": 200, "unit": "克", "note": null},
+      {"name": "番茄", "amount": 400, "unit": "克", "note": "切丁"},
+      {"name": "罗勒叶", "amount": 15, "unit": "克", "note": null},
+      {"name": "大蒜", "amount": 3, "unit": "瓣", "note": "切末"},
+      {"name": "帕玛森芝士", "amount": 30, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "意面煮熟，保留少量煮面水。", "duration_seconds": 600},
+      {"description": "橄榄油炒香蒜末，加入番茄丁小火熬成酱汁。", "duration_seconds": 600},
+      {"description": "放入意面和罗勒翻拌，撒帕玛森芝士后装盘。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 470, "protein": 17, "carbs": 76, "fat": 12}
+  },
+  {
+    "name": "海鲜意大利面",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "虾、鱿鱼和蛤蜊搭配番茄汁的鲜味意大利面。",
+    "difficulty": "medium",
+    "cooking_time": 35,
+    "servings": 2,
+    "tips": "海鲜分批快速炒熟，蛤蜊开口后立即关火，避免口感变老。",
+    "tags": ["西餐", "海鲜", "一锅饭"],
+    "ingredients": [
+      {"name": "意大利面", "amount": 220, "unit": "克", "note": null},
+      {"name": "虾仁", "amount": 120, "unit": "克", "note": null},
+      {"name": "鱿鱼", "amount": 100, "unit": "克", "note": "切圈"},
+      {"name": "蛤蜊", "amount": 250, "unit": "克", "note": "吐沙"},
+      {"name": "番茄酱", "amount": 250, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "意面煮至八成熟，海鲜清洗并用盐和黑胡椒腌制。", "duration_seconds": 600},
+      {"description": "蒜末炒香后加入虾仁、鱿鱼和蛤蜊快速翻炒。", "duration_seconds": 180},
+      {"description": "加入番茄酱和少量煮面水，放入意面收汁至熟。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 540, "protein": 35, "carbs": 78, "fat": 12}
+  },
+  {
+    "name": "青酱意面",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "罗勒、松子和橄榄油制成青酱，清新浓郁的意式面食。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "青酱不要长时间高温加热，关火后与热面拌匀能保留罗勒颜色和香气。",
+    "tags": ["西餐", "快手菜", "素食"],
+    "ingredients": [
+      {"name": "意大利面", "amount": 200, "unit": "克", "note": null},
+      {"name": "罗勒叶", "amount": 50, "unit": "克", "note": null},
+      {"name": "松子", "amount": 30, "unit": "克", "note": "烤香"},
+      {"name": "橄榄油", "amount": 80, "unit": "毫升", "note": null},
+      {"name": "帕玛森芝士", "amount": 40, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "罗勒、松子、芝士和橄榄油放入料理机打成青酱。", "duration_seconds": 120},
+      {"description": "意面按包装时间煮熟，保留少量煮面水。", "duration_seconds": 600},
+      {"description": "关火后将青酱与意面拌匀，按需要加煮面水调节浓稠度。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 610, "protein": 18, "carbs": 73, "fat": 28}
+  },
+  {
+    "name": "香草烤全鸡",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "表皮金黄酥脆、鸡肉鲜嫩多汁的家庭烤箱整鸡。",
+    "difficulty": "medium",
+    "cooking_time": 110,
+    "servings": 4,
+    "tips": "鸡身提前腌制并充分擦干，烘烤中途用肉汁刷皮，出炉后静置再切。",
+    "tags": ["西餐", "烘焙", "宴客菜"],
+    "ingredients": [
+      {"name": "整鸡", "amount": 1500, "unit": "克", "note": "处理干净"},
+      {"name": "黄油", "amount": 50, "unit": "克", "note": "软化"},
+      {"name": "迷迭香", "amount": 3, "unit": "枝", "note": null},
+      {"name": "大蒜", "amount": 6, "unit": "瓣", "note": "拍破"},
+      {"name": "土豆", "amount": 400, "unit": "克", "note": "切块"}
+    ],
+    "steps": [
+      {"description": "整鸡擦干，用盐、黑胡椒、软化黄油和迷迭香腌制至少一小时。", "duration_seconds": 3600},
+      {"description": "鸡腹中放入大蒜和香草，烤盘铺土豆，整鸡放在土豆上。", "duration_seconds": 300},
+      {"description": "烤箱190度烘烤约九十分钟，中心熟透后出炉静置十五分钟。", "duration_seconds": 5400}
+    ],
+    "nutrition": {"calories": 590, "protein": 56, "carbs": 29, "fat": 29}
+  },
+  {
+    "name": "蜂蜜芥末烤鸡翅",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "鸡翅外皮焦香、蜂蜜芥末酸甜开胃的家庭烤箱菜。",
+    "difficulty": "easy",
+    "cooking_time": 45,
+    "servings": 3,
+    "tips": "鸡翅提前腌制并在烤盘铺开，最后几分钟刷蜂蜜可以避免过早焦糊。",
+    "tags": ["西餐", "烘焙", "快手菜"],
+    "ingredients": [
+      {"name": "鸡翅中", "amount": 600, "unit": "克", "note": "两面划刀"},
+      {"name": "蜂蜜", "amount": 2, "unit": "勺", "note": null},
+      {"name": "芥末酱", "amount": 1, "unit": "勺", "note": null},
+      {"name": "橄榄油", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡翅加入蜂蜜、芥末、盐和黑胡椒腌制三十分钟。", "duration_seconds": 1800},
+      {"description": "鸡翅平铺在烤盘，烤箱200度烘烤二十五分钟。", "duration_seconds": 1500},
+      {"description": "翻面再刷一层蜂蜜芥末，继续烤十分钟至表皮金黄。", "duration_seconds": 600}
+    ],
+    "nutrition": {"calories": 430, "protein": 32, "carbs": 14, "fat": 27}
+  },
+  {
+    "name": "香草烤三文鱼",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "三文鱼肉质细嫩，搭配柠檬和香草的清爽西式晚餐。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "三文鱼不要烤得过久，中心刚好变色并能轻松分层时口感最佳。",
+    "tags": ["西餐", "海鲜", "高蛋白"],
+    "ingredients": [
+      {"name": "三文鱼排", "amount": 2, "unit": "块", "note": "每块约180克"},
+      {"name": "柠檬", "amount": 1, "unit": "个", "note": "切片"},
+      {"name": "莳萝", "amount": 5, "unit": "克", "note": null},
+      {"name": "橄榄油", "amount": 1, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "三文鱼擦干，撒盐、黑胡椒，刷橄榄油并铺上柠檬片和莳萝。", "duration_seconds": 180},
+      {"description": "烤箱200度烘烤十二至十五分钟，至鱼肉刚好熟透。", "duration_seconds": 840},
+      {"description": "出炉后挤少量柠檬汁，搭配沙拉或烤蔬菜食用。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 420, "protein": 40, "carbs": 5, "fat": 27}
+  },
+  {
+    "name": "英式牧羊人派",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "肉末蔬菜馅覆盖奶香土豆泥的英式烤箱主食。",
+    "difficulty": "medium",
+    "cooking_time": 70,
+    "servings": 4,
+    "tips": "肉馅收汁后再铺土豆泥，表面用叉子划纹更容易烤出焦香。",
+    "tags": ["西餐", "烘焙", "家常菜"],
+    "ingredients": [
+      {"name": "羊肉末", "amount": 400, "unit": "克", "note": null},
+      {"name": "土豆", "amount": 600, "unit": "克", "note": null},
+      {"name": "胡萝卜", "amount": 1, "unit": "根", "note": "切丁"},
+      {"name": "洋葱", "amount": 1, "unit": "个", "note": "切丁"},
+      {"name": "豌豆", "amount": 100, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "土豆煮熟压泥，加入黄油和牛奶调成顺滑土豆泥。", "duration_seconds": 1200},
+      {"description": "洋葱、胡萝卜炒香，加入羊肉末和豌豆，放高汤焖煮至收汁。", "duration_seconds": 900},
+      {"description": "肉馅铺入烤盘，覆盖土豆泥并划纹，烤箱200度烘烤二十五分钟。", "duration_seconds": 1500}
+    ],
+    "nutrition": {"calories": 560, "protein": 31, "carbs": 48, "fat": 27}
+  },
+  {
+    "name": "西班牙海鲜饭",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "米饭吸收海鲜和番红花香气的西班牙经典一锅菜。",
+    "difficulty": "medium",
+    "cooking_time": 55,
+    "servings": 4,
+    "tips": "米饭下锅后尽量不要搅拌，最后几分钟开大火可形成香脆锅底。",
+    "tags": ["西餐", "海鲜", "一锅饭"],
+    "ingredients": [
+      {"name": "短粒米", "amount": 300, "unit": "克", "note": null},
+      {"name": "虾", "amount": 200, "unit": "克", "note": null},
+      {"name": "鱿鱼", "amount": 150, "unit": "克", "note": "切圈"},
+      {"name": "蛤蜊", "amount": 300, "unit": "克", "note": "吐沙"},
+      {"name": "番茄", "amount": 200, "unit": "克", "note": "切丁"}
+    ],
+    "steps": [
+      {"description": "平底锅炒香洋葱和番茄，加入米翻炒至表面发亮。", "duration_seconds": 300},
+      {"description": "加入高汤和番红花，铺上海鲜，中火煮至米饭吸收汤汁。", "duration_seconds": 1800},
+      {"description": "最后转大火两分钟形成锅底，关火焖五分钟后食用。", "duration_seconds": 420}
+    ],
+    "nutrition": {"calories": 560, "protein": 34, "carbs": 78, "fat": 13}
+  },
+  {
+    "name": "美式芝士汉堡",
+    "cuisine": "西餐",
+    "meal_type": "lunch",
+    "description": "牛肉饼、芝士和蔬菜夹在汉堡胚中的经典西式快餐。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "牛肉饼不要反复按压，煎好后静置一会儿，肉汁更丰富。",
+    "tags": ["西餐", "快手菜", "高蛋白"],
+    "ingredients": [
+      {"name": "牛肉馅", "amount": 300, "unit": "克", "note": "肥瘦八二"},
+      {"name": "汉堡胚", "amount": 2, "unit": "个", "note": null},
+      {"name": "车达芝士", "amount": 2, "unit": "片", "note": null},
+      {"name": "生菜", "amount": 60, "unit": "克", "note": null},
+      {"name": "番茄", "amount": 1, "unit": "个", "note": "切片"}
+    ],
+    "steps": [
+      {"description": "牛肉馅分成两份压成肉饼，两面撒盐和黑胡椒。", "duration_seconds": 180},
+      {"description": "平底锅煎牛肉饼至两面上色，出锅前放芝士片融化。", "duration_seconds": 360},
+      {"description": "汉堡胚切开烤香，依次放生菜、番茄、牛肉饼和酱料。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 680, "protein": 39, "carbs": 48, "fat": 36}
+  },
+  {
+    "name": "黄油曲奇",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "奶香浓郁、入口酥松的基础烘焙小点心。",
+    "difficulty": "easy",
+    "cooking_time": 35,
+    "servings": 8,
+    "tips": "黄油软化而不是融化，面糊挤好后冷藏片刻，烤出的花纹更清晰。",
+    "tags": ["烘焙", "早餐", "甜品"],
+    "ingredients": [
+      {"name": "黄油", "amount": 120, "unit": "克", "note": "室温软化"},
+      {"name": "低筋面粉", "amount": 180, "unit": "克", "note": "过筛"},
+      {"name": "糖粉", "amount": 60, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 1, "unit": "个", "note": null}
+    ],
+    "steps": [
+      {"description": "软化黄油加糖粉打发至颜色变浅，分次加入蛋液。", "duration_seconds": 300},
+      {"description": "筛入低筋面粉拌匀，装入裱花袋挤在烤盘上。", "duration_seconds": 300},
+      {"description": "烤箱170度烘烤十五至十八分钟，边缘金黄后出炉冷却。", "duration_seconds": 1080}
+    ],
+    "nutrition": {"calories": 190, "protein": 3, "carbs": 20, "fat": 11}
+  },
+  {
+    "name": "柠檬磅蛋糕",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "黄油香和柠檬清香平衡的西式下午茶蛋糕。",
+    "difficulty": "medium",
+    "cooking_time": 65,
+    "servings": 8,
+    "tips": "黄油和鸡蛋保持室温，蛋液分次加入，蛋糕组织会更细腻。",
+    "tags": ["烘焙", "早餐", "甜品"],
+    "ingredients": [
+      {"name": "黄油", "amount": 150, "unit": "克", "note": "室温软化"},
+      {"name": "低筋面粉", "amount": 150, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 3, "unit": "个", "note": null},
+      {"name": "细砂糖", "amount": 130, "unit": "克", "note": null},
+      {"name": "柠檬", "amount": 1, "unit": "个", "note": "取皮屑和汁"}
+    ],
+    "steps": [
+      {"description": "黄油加糖打发，分次加入蛋液，再加入柠檬皮屑。", "duration_seconds": 420},
+      {"description": "筛入面粉翻拌均匀，倒入铺纸模具。", "duration_seconds": 180},
+      {"description": "烤箱170度烘烤四十五分钟，出炉后刷柠檬糖浆。", "duration_seconds": 2700}
+    ],
+    "nutrition": {"calories": 330, "protein": 5, "carbs": 38, "fat": 18}
+  },
+  {
+    "name": "奶油泡芙",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "外壳轻脆、内馅顺滑的经典法式小甜点。",
+    "difficulty": "medium",
+    "cooking_time": 55,
+    "servings": 8,
+    "tips": "面糊炒至锅底出现薄膜再离火，泡芙出炉前不要频繁开烤箱门。",
+    "tags": ["烘焙", "早餐", "甜品"],
+    "ingredients": [
+      {"name": "低筋面粉", "amount": 80, "unit": "克", "note": "过筛"},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "黄油", "amount": 60, "unit": "克", "note": null},
+      {"name": "淡奶油", "amount": 200, "unit": "克", "note": "打发作馅"},
+      {"name": "清水", "amount": 120, "unit": "毫升", "note": null}
+    ],
+    "steps": [
+      {"description": "水、黄油和少量盐煮开，倒入面粉快速搅拌至锅底成膜。", "duration_seconds": 240},
+      {"description": "面糊稍凉后分次加入蛋液，装入裱花袋挤成小球。", "duration_seconds": 300},
+      {"description": "烤箱190度烘烤二十五分钟，冷却后切开挤入打发奶油。", "duration_seconds": 1500}
+    ],
+    "nutrition": {"calories": 220, "protein": 5, "carbs": 17, "fat": 15}
+  },
+  {
+    "name": "法式可丽饼",
+    "cuisine": "烘焙",
+    "meal_type": "breakfast",
+    "description": "薄如纸张的法式煎饼，可搭配水果、奶油或咸味馅料。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 4,
+    "tips": "面糊过筛并静置，锅底薄油，中小火快速转锅能摊得更薄。",
+    "tags": ["烘焙", "早餐", "甜品"],
+    "ingredients": [
+      {"name": "低筋面粉", "amount": 120, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": null},
+      {"name": "牛奶", "amount": 300, "unit": "毫升", "note": null},
+      {"name": "黄油", "amount": 25, "unit": "克", "note": "融化"},
+      {"name": "细砂糖", "amount": 25, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡蛋、牛奶、融化黄油和糖混合，筛入面粉拌成面糊并静置二十分钟。", "duration_seconds": 1200},
+      {"description": "平底锅刷薄油，倒入少量面糊并转锅摊薄。", "duration_seconds": 120},
+      {"description": "两面煎熟，叠放后搭配水果或巧克力酱。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 230, "protein": 8, "carbs": 29, "fat": 9}
+  },
+  {
+    "name": "西红柿炒鸡蛋",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "酸甜开胃、制作简单的高频家常菜，适合搭配米饭。",
+    "difficulty": "easy",
+    "cooking_time": 15,
+    "servings": 2,
+    "tips": "鸡蛋先炒至刚凝固盛出，西红柿炒出汤汁后再合锅，口感更嫩。",
+    "tags": ["家常菜", "快手菜", "下饭菜"],
+    "ingredients": [
+      {"name": "西红柿", "amount": 3, "unit": "个", "note": "切块"},
+      {"name": "鸡蛋", "amount": 3, "unit": "个", "note": "打散"},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"},
+      {"name": "白糖", "amount": 1, "unit": "茶匙", "note": "可选"}
+    ],
+    "steps": [
+      {"description": "鸡蛋加少许盐打散，热锅炒至刚凝固后盛出。", "duration_seconds": 120},
+      {"description": "锅中炒香葱花，加入西红柿炒至变软出汁。", "duration_seconds": 240},
+      {"description": "倒回鸡蛋，加盐和少量白糖调味，翻炒均匀即可。", "duration_seconds": 90}
+    ],
+    "nutrition": {"calories": 270, "protein": 18, "carbs": 16, "fat": 16}
+  },
+  {
+    "name": "青椒肉丝",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "肉丝嫩滑、青椒清香的经典快手家常菜。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "肉丝逆纹切并加淀粉上浆，青椒断生即可，炒久容易失去爽脆口感。",
+    "tags": ["家常菜", "快手菜", "下饭菜"],
+    "ingredients": [
+      {"name": "猪里脊", "amount": 220, "unit": "克", "note": "切丝"},
+      {"name": "青椒", "amount": 3, "unit": "个", "note": "切丝"},
+      {"name": "生抽", "amount": 1, "unit": "勺", "note": null},
+      {"name": "淀粉", "amount": 1, "unit": "茶匙", "note": "腌肉用"}
+    ],
+    "steps": [
+      {"description": "肉丝加生抽、料酒和淀粉抓匀，腌制十分钟。", "duration_seconds": 600},
+      {"description": "热锅滑炒肉丝至变色，盛出备用。", "duration_seconds": 120},
+      {"description": "炒香青椒，倒回肉丝，用盐快速翻炒均匀。", "duration_seconds": 120}
+    ],
+    "nutrition": {"calories": 360, "protein": 34, "carbs": 13, "fat": 20}
+  },
+  {
+    "name": "家常红烧肉",
+    "cuisine": "家常菜",
+    "meal_type": "dinner",
+    "description": "色泽红亮、软糯入味的家庭版红烧肉。",
+    "difficulty": "medium",
+    "cooking_time": 80,
+    "servings": 4,
+    "tips": "五花肉先煸出部分油脂再炖，糖色用小火炒制，避免发苦。",
+    "tags": ["家常菜", "下饭菜", "慢炖"],
+    "ingredients": [
+      {"name": "五花肉", "amount": 600, "unit": "克", "note": "切方块"},
+      {"name": "冰糖", "amount": 35, "unit": "克", "note": null},
+      {"name": "生抽", "amount": 3, "unit": "勺", "note": null},
+      {"name": "生姜", "amount": 15, "unit": "克", "note": "切片"},
+      {"name": "八角", "amount": 2, "unit": "个", "note": null}
+    ],
+    "steps": [
+      {"description": "五花肉冷水焯水后洗净，锅中煸炒至表面微黄。", "duration_seconds": 600},
+      {"description": "另锅小火炒冰糖成糖色，放入五花肉、姜片和八角翻匀。", "duration_seconds": 180},
+      {"description": "加入生抽和热水，小火炖六十分钟，开盖收浓汤汁。", "duration_seconds": 3600}
+    ],
+    "nutrition": {"calories": 720, "protein": 26, "carbs": 25, "fat": 57}
+  },
+  {
+    "name": "可乐鸡翅",
+    "cuisine": "家常菜",
+    "meal_type": "dinner",
+    "description": "咸甜入味、颜色红亮的高频家常鸡翅。",
+    "difficulty": "easy",
+    "cooking_time": 35,
+    "servings": 3,
+    "tips": "鸡翅先煎出表皮油脂，最后开盖收汁，甜味和光泽会更集中。",
+    "tags": ["家常菜", "快手菜", "下饭菜"],
+    "ingredients": [
+      {"name": "鸡翅中", "amount": 600, "unit": "克", "note": "两面划刀"},
+      {"name": "可乐", "amount": 330, "unit": "毫升", "note": null},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null},
+      {"name": "生姜", "amount": 10, "unit": "克", "note": "切片"}
+    ],
+    "steps": [
+      {"description": "鸡翅冷水焯水，擦干后在平底锅中煎至两面金黄。", "duration_seconds": 480},
+      {"description": "加入姜片、生抽和可乐，大火煮开后转小火焖煮二十分钟。", "duration_seconds": 1200},
+      {"description": "开盖大火收汁，至酱汁均匀裹在鸡翅表面即可。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 460, "protein": 34, "carbs": 29, "fat": 24}
+  },
+  {
+    "name": "糖醋排骨",
+    "cuisine": "浙菜",
+    "meal_type": "dinner",
+    "description": "酸甜适口、排骨软嫩的家庭版糖醋菜。",
+    "difficulty": "medium",
+    "cooking_time": 55,
+    "servings": 3,
+    "tips": "排骨先煎至上色再加水炖，糖醋汁最后收浓，酸甜味更清晰。",
+    "tags": ["浙菜", "家常菜", "下饭菜"],
+    "ingredients": [
+      {"name": "猪小排", "amount": 500, "unit": "克", "note": "剁小块"},
+      {"name": "米醋", "amount": 3, "unit": "勺", "note": null},
+      {"name": "冰糖", "amount": 35, "unit": "克", "note": null},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null},
+      {"name": "白芝麻", "amount": 5, "unit": "克", "note": "装饰"}
+    ],
+    "steps": [
+      {"description": "排骨冷水焯水后洗净，擦干表面水分。", "duration_seconds": 600},
+      {"description": "排骨煎至两面上色，加入生抽、冰糖和热水，小火炖三十分钟。", "duration_seconds": 1800},
+      {"description": "加入米醋大火收汁，装盘后撒白芝麻。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 540, "protein": 32, "carbs": 31, "fat": 32}
+  },
+  {
+    "name": "酸辣土豆丝",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "酸辣爽脆、几分钟即可完成的高频家常素菜。",
+    "difficulty": "easy",
+    "cooking_time": 15,
+    "servings": 2,
+    "tips": "土豆丝切好后用清水冲洗掉多余淀粉，大火快炒才能保持脆度。",
+    "tags": ["家常菜", "快手菜", "素食"],
+    "ingredients": [
+      {"name": "土豆", "amount": 2, "unit": "个", "note": "切细丝"},
+      {"name": "干辣椒", "amount": 4, "unit": "个", "note": "剪段"},
+      {"name": "米醋", "amount": 2, "unit": "勺", "note": null},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切段"}
+    ],
+    "steps": [
+      {"description": "土豆切丝后冲洗两遍，沥干水分。", "duration_seconds": 180},
+      {"description": "热油炒香干辣椒和葱段，加入土豆丝大火翻炒。", "duration_seconds": 180},
+      {"description": "沿锅边淋米醋，加盐调味，翻炒至断生即可。", "duration_seconds": 90}
+    ],
+    "nutrition": {"calories": 230, "protein": 5, "carbs": 39, "fat": 7}
+  },
+  {
+    "name": "地三鲜",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "土豆、茄子和青椒搭配酱汁的东北家常素菜。",
+    "difficulty": "medium",
+    "cooking_time": 35,
+    "servings": 3,
+    "tips": "茄子和土豆分开处理，最后合锅收汁，能避免蔬菜过度软烂。",
+    "tags": ["家常菜", "素食", "下饭菜"],
+    "ingredients": [
+      {"name": "土豆", "amount": 2, "unit": "个", "note": "切块"},
+      {"name": "茄子", "amount": 2, "unit": "根", "note": "切块"},
+      {"name": "青椒", "amount": 2, "unit": "个", "note": "切块"},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null},
+      {"name": "大蒜", "amount": 4, "unit": "瓣", "note": "切末"}
+    ],
+    "steps": [
+      {"description": "土豆煎至表面金黄，茄子煎至变软，分别盛出。", "duration_seconds": 480},
+      {"description": "锅中炒香蒜末，加入青椒翻炒至断生。", "duration_seconds": 120},
+      {"description": "倒回土豆和茄子，加入生抽、蚝油和少量水，收汁即可。", "duration_seconds": 240}
+    ],
+    "nutrition": {"calories": 310, "protein": 7, "carbs": 45, "fat": 12}
+  },
+  {
+    "name": "蒜蓉空心菜",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "蒜香浓郁、清脆爽口的日常快炒绿叶菜。",
+    "difficulty": "easy",
+    "cooking_time": 10,
+    "servings": 2,
+    "tips": "空心菜梗和叶分开下锅，全程大火快炒，出锅前再放盐。",
+    "tags": ["家常菜", "快手菜", "素食"],
+    "ingredients": [
+      {"name": "空心菜", "amount": 400, "unit": "克", "note": "洗净切段"},
+      {"name": "大蒜", "amount": 5, "unit": "瓣", "note": "切末"},
+      {"name": "蚝油", "amount": 1, "unit": "勺", "note": null},
+      {"name": "红辣椒", "amount": 1, "unit": "个", "note": "切丝"}
+    ],
+    "steps": [
+      {"description": "空心菜梗和叶分开，蒜末与红椒切好备用。", "duration_seconds": 120},
+      {"description": "热锅炒香蒜末，先放菜梗翻炒，再加入菜叶。", "duration_seconds": 120},
+      {"description": "加入蚝油和盐，大火翻炒至叶片变软立即出锅。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 120, "protein": 7, "carbs": 12, "fat": 6}
+  },
+  {
+    "name": "白灼菜心",
+    "cuisine": "粤菜",
+    "meal_type": "lunch",
+    "description": "突出蔬菜清甜口感的广式日常青菜。",
+    "difficulty": "easy",
+    "cooking_time": 12,
+    "servings": 2,
+    "tips": "水中加油和盐，菜心焯好后立即过凉或沥干，颜色更翠绿。",
+    "tags": ["粤菜", "清淡", "素食"],
+    "ingredients": [
+      {"name": "菜心", "amount": 400, "unit": "克", "note": "洗净"},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null},
+      {"name": "大蒜", "amount": 3, "unit": "瓣", "note": "切片"},
+      {"name": "食用油", "amount": 1, "unit": "勺", "note": "淋油"}
+    ],
+    "steps": [
+      {"description": "锅中水烧开，加少量盐和油，放入菜心焯熟。", "duration_seconds": 120},
+      {"description": "菜心捞出沥干，整齐摆盘。", "duration_seconds": 60},
+      {"description": "铺上蒜片，淋生抽和热油即可。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 100, "protein": 8, "carbs": 11, "fat": 4}
+  },
+  {
+    "name": "番茄牛腩",
+    "cuisine": "家常菜",
+    "meal_type": "dinner",
+    "description": "牛腩软烂、番茄汤汁酸甜的家常炖菜。",
+    "difficulty": "medium",
+    "cooking_time": 100,
+    "servings": 4,
+    "tips": "牛腩先焯水再煎香，番茄一半先炒出汁、一半后放，汤味更有层次。",
+    "tags": ["家常菜", "慢炖", "下饭菜"],
+    "ingredients": [
+      {"name": "牛腩", "amount": 600, "unit": "克", "note": "切块"},
+      {"name": "番茄", "amount": 4, "unit": "个", "note": "切块"},
+      {"name": "土豆", "amount": 2, "unit": "个", "note": "切块"},
+      {"name": "洋葱", "amount": 1, "unit": "个", "note": "切块"},
+      {"name": "生姜", "amount": 15, "unit": "克", "note": "切片"}
+    ],
+    "steps": [
+      {"description": "牛腩冷水焯水洗净，锅中煎至表面微黄。", "duration_seconds": 600},
+      {"description": "炒香洋葱和一半番茄，加入牛腩、姜片和热水，小火炖七十分钟。", "duration_seconds": 4200},
+      {"description": "加入土豆和剩余番茄继续炖二十分钟，用盐和黑胡椒调味。", "duration_seconds": 1200}
+    ],
+    "nutrition": {"calories": 520, "protein": 39, "carbs": 29, "fat": 27}
+  },
+  {
+    "name": "冬瓜排骨汤",
+    "cuisine": "家常菜",
+    "meal_type": "dinner",
+    "description": "汤味清淡、冬瓜软嫩的家庭常备汤品。",
+    "difficulty": "easy",
+    "cooking_time": 70,
+    "servings": 4,
+    "tips": "排骨先焯水去浮沫，冬瓜后放，煮到透明但不要过度软烂。",
+    "tags": ["家常菜", "汤品", "清淡"],
+    "ingredients": [
+      {"name": "猪排骨", "amount": 400, "unit": "克", "note": "剁块"},
+      {"name": "冬瓜", "amount": 500, "unit": "克", "note": "切块"},
+      {"name": "生姜", "amount": 10, "unit": "克", "note": "切片"},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "排骨冷水焯水，捞出洗净浮沫。", "duration_seconds": 300},
+      {"description": "排骨加姜片和清水煮开，转小火炖四十五分钟。", "duration_seconds": 2700},
+      {"description": "加入冬瓜继续煮十五分钟，加盐调味并撒葱花。", "duration_seconds": 900}
+    ],
+    "nutrition": {"calories": 320, "protein": 27, "carbs": 12, "fat": 18}
+  },
+  {
+    "name": "紫菜蛋花汤",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "几分钟完成的清爽家常汤，适合搭配米饭和炒菜。",
+    "difficulty": "easy",
+    "cooking_time": 10,
+    "servings": 2,
+    "tips": "蛋液沿筷子或勺背细流倒入，汤开后立即关火，蛋花更细嫩。",
+    "tags": ["家常菜", "汤品", "快手菜"],
+    "ingredients": [
+      {"name": "紫菜", "amount": 10, "unit": "克", "note": null},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": "打散"},
+      {"name": "虾皮", "amount": 10, "unit": "克", "note": null},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "锅中加入清水、紫菜和虾皮煮开。", "duration_seconds": 180},
+      {"description": "汤保持微沸，沿锅边缓慢倒入蛋液并轻轻搅动。", "duration_seconds": 60},
+      {"description": "加盐、香油调味，撒葱花即可。", "duration_seconds": 30}
+    ],
+    "nutrition": {"calories": 130, "protein": 12, "carbs": 4, "fat": 8}
+  },
+  {
+    "name": "酸辣汤",
+    "cuisine": "川菜",
+    "meal_type": "dinner",
+    "description": "胡椒香和醋香突出、酸辣开胃的家常汤品。",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 3,
+    "tips": "醋和胡椒最后加入，勾芡后再淋蛋液，汤的层次更清楚。",
+    "tags": ["川菜", "汤品", "快手菜"],
+    "ingredients": [
+      {"name": "豆腐", "amount": 200, "unit": "克", "note": "切丝"},
+      {"name": "木耳", "amount": 50, "unit": "克", "note": "切丝"},
+      {"name": "鸡蛋", "amount": 1, "unit": "个", "note": "打散"},
+      {"name": "米醋", "amount": 2, "unit": "勺", "note": null},
+      {"name": "白胡椒", "amount": 2, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "高汤煮开，加入豆腐丝、木耳丝和笋丝煮熟。", "duration_seconds": 300},
+      {"description": "用生抽、米醋和白胡椒调味，淋入水淀粉勾薄芡。", "duration_seconds": 120},
+      {"description": "沿锅边倒入蛋液，关火后撒香菜和葱花。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 170, "protein": 12, "carbs": 13, "fat": 8}
+  },
+  {
+    "name": "鸡蛋羹",
+    "cuisine": "家常菜",
+    "meal_type": "breakfast",
+    "description": "口感细腻嫩滑的蒸蛋，适合老人和儿童日常食用。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "蛋液和温水比例约为1比1.5，过滤并盖保鲜膜，表面更平滑。",
+    "tags": ["早餐", "清淡", "家常菜"],
+    "ingredients": [
+      {"name": "鸡蛋", "amount": 3, "unit": "个", "note": null},
+      {"name": "温水", "amount": 225, "unit": "毫升", "note": null},
+      {"name": "生抽", "amount": 1, "unit": "勺", "note": "出锅调味"},
+      {"name": "小葱", "amount": 1, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "鸡蛋打散，加入温水和少量盐搅匀，过滤去除泡沫。", "duration_seconds": 180},
+      {"description": "盖上保鲜膜并扎小孔，水开后中小火蒸八至十分钟。", "duration_seconds": 600},
+      {"description": "出锅淋生抽和香油，撒葱花即可。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 210, "protein": 19, "carbs": 4, "fat": 13}
+  },
+  {
+    "name": "香煎豆腐",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "外层金黄、内部嫩滑的高频家常豆制品菜肴。",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 2,
+    "tips": "豆腐表面擦干并裹薄淀粉，锅热后再下锅，翻面时不易粘锅。",
+    "tags": ["家常菜", "素食", "快手菜"],
+    "ingredients": [
+      {"name": "老豆腐", "amount": 400, "unit": "克", "note": "切厚片"},
+      {"name": "淀粉", "amount": 30, "unit": "克", "note": "薄薄裹面"},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"},
+      {"name": "白芝麻", "amount": 5, "unit": "克", "note": null}
+    ],
+    "steps": [
+      {"description": "豆腐用厨房纸吸干水分，表面薄薄拍一层淀粉。", "duration_seconds": 120},
+      {"description": "平底锅少油，将豆腐煎至两面金黄。", "duration_seconds": 360},
+      {"description": "加入生抽、少量水和葱花焖一分钟，撒白芝麻出锅。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 280, "protein": 21, "carbs": 15, "fat": 15}
+  },
+  {
+    "name": "广式炒河粉",
+    "cuisine": "粤菜",
+    "meal_type": "lunch",
+    "description": "河粉滑爽、牛肉嫩香的广式家常快炒主食。",
+    "difficulty": "medium",
+    "cooking_time": 25,
+    "servings": 2,
+    "tips": "河粉下锅后少翻动，使用大火快速炒制，能减少断碎和粘连。",
+    "tags": ["粤菜", "快手菜", "一锅饭"],
+    "ingredients": [
+      {"name": "鲜河粉", "amount": 400, "unit": "克", "note": null},
+      {"name": "牛里脊", "amount": 180, "unit": "克", "note": "切片"},
+      {"name": "豆芽", "amount": 150, "unit": "克", "note": null},
+      {"name": "韭黄", "amount": 100, "unit": "克", "note": "切段"},
+      {"name": "生抽", "amount": 2, "unit": "勺", "note": null}
+    ],
+    "steps": [
+      {"description": "牛肉加生抽和淀粉腌十分钟，豆芽和韭黄洗净。", "duration_seconds": 600},
+      {"description": "热锅滑炒牛肉至变色，盛出备用。", "duration_seconds": 120},
+      {"description": "大火炒豆芽和河粉，倒回牛肉和韭黄，用生抽调味后出锅。", "duration_seconds": 180}
+    ],
+    "nutrition": {"calories": 510, "protein": 27, "carbs": 76, "fat": 12}
+  },
+  {
+    "name": "家常水饺",
+    "cuisine": "家常菜",
+    "meal_type": "dinner",
+    "description": "猪肉白菜馅的日常水饺，适合家庭包制和冷冻储存。",
+    "difficulty": "medium",
+    "cooking_time": 75,
+    "servings": 4,
+    "tips": "白菜加盐后挤干水分，肉馅顺一个方向搅拌，饺子皮边缘沾水更易封口。",
+    "tags": ["家常菜", "一锅饭", "宴客菜"],
+    "ingredients": [
+      {"name": "饺子皮", "amount": 50, "unit": "张", "note": null},
+      {"name": "猪肉馅", "amount": 400, "unit": "克", "note": null},
+      {"name": "白菜", "amount": 400, "unit": "克", "note": "切碎挤水"},
+      {"name": "小葱", "amount": 3, "unit": "根", "note": "切末"},
+      {"name": "生姜", "amount": 10, "unit": "克", "note": "切末"}
+    ],
+    "steps": [
+      {"description": "白菜切碎加盐腌出水分，挤干后与肉馅、葱姜和调味料拌匀。", "duration_seconds": 600},
+      {"description": "饺子皮包入适量馅料，捏紧边缘。", "duration_seconds": 1800},
+      {"description": "水开后下饺子，点两次凉水，待饺子浮起且皮透亮时捞出。", "duration_seconds": 600}
+    ],
+    "nutrition": {"calories": 510, "protein": 25, "carbs": 66, "fat": 16}
+  },
+  {
+    "name": "咖喱鸡饭",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "鸡肉、土豆和胡萝卜炖成浓郁咖喱汁，浇在米饭上的家常主食。",
+    "difficulty": "easy",
+    "cooking_time": 40,
+    "servings": 3,
+    "tips": "鸡肉先煎香，咖喱块关小火后加入，酱汁会更顺滑不易糊底。",
+    "tags": ["西餐", "一锅饭", "家常菜"],
+    "ingredients": [
+      {"name": "鸡腿肉", "amount": 350, "unit": "克", "note": "切块"},
+      {"name": "土豆", "amount": 2, "unit": "个", "note": "切块"},
+      {"name": "胡萝卜", "amount": 1, "unit": "根", "note": "切块"},
+      {"name": "洋葱", "amount": 1, "unit": "个", "note": "切块"},
+      {"name": "咖喱块", "amount": 4, "unit": "块", "note": null}
+    ],
+    "steps": [
+      {"description": "鸡腿肉加盐和黑胡椒腌制，锅中煎至表面上色。", "duration_seconds": 300},
+      {"description": "加入洋葱、土豆和胡萝卜翻炒，加水煮至蔬菜变软。", "duration_seconds": 1500},
+      {"description": "转小火加入咖喱块搅拌融化，煮五分钟后浇在米饭上。", "duration_seconds": 300}
+    ],
+    "nutrition": {"calories": 570, "protein": 31, "carbs": 69, "fat": 19}
+  },
+  {
+    "name": "蒜香黄油虾",
+    "cuisine": "西餐",
+    "meal_type": "dinner",
+    "description": "虾肉鲜嫩、黄油蒜香浓郁的快速西式主菜。",
+    "difficulty": "easy",
+    "cooking_time": 15,
+    "servings": 2,
+    "tips": "虾仁擦干后大火快煎，变色即可出锅，避免长时间加热变老。",
+    "tags": ["西餐", "海鲜", "快手菜"],
+    "ingredients": [
+      {"name": "大虾", "amount": 300, "unit": "克", "note": "去虾线"},
+      {"name": "黄油", "amount": 30, "unit": "克", "note": null},
+      {"name": "大蒜", "amount": 5, "unit": "瓣", "note": "切末"},
+      {"name": "柠檬", "amount": 0.5, "unit": "个", "note": "挤汁"},
+      {"name": "欧芹", "amount": 5, "unit": "克", "note": "切碎"}
+    ],
+    "steps": [
+      {"description": "大虾洗净擦干，用盐和黑胡椒腌制五分钟。", "duration_seconds": 300},
+      {"description": "黄油融化后炒香蒜末，加入大虾两面煎至变色。", "duration_seconds": 180},
+      {"description": "挤入柠檬汁，撒欧芹翻匀后立即装盘。", "duration_seconds": 60}
+    ],
+    "nutrition": {"calories": 310, "protein": 35, "carbs": 5, "fat": 17}
+  },
+  {
+    "name": "家常蛋炒饭",
+    "cuisine": "家常菜",
+    "meal_type": "lunch",
+    "description": "利用隔夜米饭快速完成的家常主食，简单又饱腹。",
+    "difficulty": "easy",
+    "cooking_time": 15,
+    "servings": 2,
+    "tips": "米饭提前打散并使用冷藏饭，鸡蛋先炒后合锅，米粒更干爽。",
+    "tags": ["家常菜", "快手菜", "一锅饭"],
+    "ingredients": [
+      {"name": "米饭", "amount": 400, "unit": "克", "note": "隔夜冷藏"},
+      {"name": "鸡蛋", "amount": 2, "unit": "个", "note": "打散"},
+      {"name": "胡萝卜", "amount": 0.5, "unit": "根", "note": "切丁"},
+      {"name": "青豆", "amount": 80, "unit": "克", "note": null},
+      {"name": "小葱", "amount": 2, "unit": "根", "note": "切葱花"}
+    ],
+    "steps": [
+      {"description": "米饭提前抓散，胡萝卜切丁，青豆焯水备用。", "duration_seconds": 180},
+      {"description": "鸡蛋炒至凝固盛出，锅中炒香葱花和胡萝卜。", "duration_seconds": 150},
+      {"description": "加入米饭大火炒散，倒回鸡蛋和青豆，用盐调味后出锅。", "duration_seconds": 240}
+    ],
+    "nutrition": {"calories": 460, "protein": 17, "carbs": 71, "fat": 12}
+  }
+]
